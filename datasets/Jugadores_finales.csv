@@ -38,36 +38,144 @@ Año,Equipo,Nombre ,Nacionalidad,edad,Posicion
 2011,Barcelona,Víctor Valdés,España,29,Portero
 2011,Barcelona,Dani Alves,Brasil,28,Lateral derecho
 2011,Barcelona,Gerard Piqué,España,24,Defensa central 
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Barcelona,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
-2011,Man Utd,,,,
+2011,Barcelona,José Manuel Pinto ,España,35,Portero
+2011,Barcelona,Carles Puyol,España,33,Defensa central 
+2011,Barcelona,Gabriel Milito,Argentina,30,Defensa central 
+2011,Barcelona,Marc Munisa,España,19,Defensa central 
+2011,Barcelona,Andreu Fontás,España,21,Defensa central 
+2011,Barcelona,Marc Bartra,España,20,Defensa central 
+2011,Barcelona,Sergi Gomez,España,19,Defensa central 
+2011,Barcelona,Eric Abidal,Francia,31,Lateral izquierdo
+2011,Barcelona,Adriano ,Brasil,26,Lateral izquierdo
+2011,Barcelona,Maxwell,Brasil,29,Lateral izquierdo
+2011,Barcelona,Martín Montoya,España,20,Lateral derecho
+2011,Barcelona,Sergio Busquets,España,22,Mediocampista defensivo
+2011,Barcelona,Javier Mascherano,Argentina,27,Mediocampista defensivo
+2011,Barcelona,Jonathan dos Santos,México,22,Mediocampista defensivo
+2011,Barcelona,Andrés Iniesta,España,27,Mediocampista
+2011,Barcelona,Xavi,España,31,Mediocampista
+2011,Barcelona,Seydou Keita,Senegal,31,Mediocampista
+2011,Barcelona,Thiago Alcántara,España,20,Mediocampista
+2011,Barcelona,Sergi Roberto,España,19,Mediocampista
+2011,Barcelona,Ibrahim Afellay,Holanda,25,Mediocampista ofensivo
+2011,Barcelona,Víctor Vázquez,España,24,Mediocampista ofensivo
+2011,Barcelona,Nolito,España,24,Extremo izquierdo
+2011,Barcelona,Lionel Messi,Argentina,24,Extremo derecho
+2011,Barcelona,Pedro,España,23,Extremo derecho
+2011,Barcelona,Jeffrén,Venezuela,23,Extremo derecho
+2011,Barcelona,Bojan Krkic,España,20,Mediocampista ofensivo
+2011,Barcelona,David Villa,España,29,Delantero centro
+2011,Barcelona,Oriol Romeu,España,19,Mediocampista defensivo
+2011,Manchester United,Anders Lindegaard,Dinamarca,27,Portero
+2011,Manchester United,Tomasz Kuszczak,Polonia,29,Portero
+2011,Manchester United,Edwin van der Sar,Holanda,40,Portero
+2011,Manchester United,Ben Amos,Inglaterra,21,Portero
+2011,Manchester United,Nemanja Vidic,Serbia,29,Defensa central 
+2011,Manchester United,Rio Ferdinand,Inglaterra,32,Defensa central 
+2011,Manchester United,Jonny Evans,Irlanda del norte,23,Defensa central 
+2011,Manchester United,John O'Shea,Irlanda,30,Defensa central 
+2011,Manchester United,Wes Brown,Inglaterra,31,Defensa central 
+2011,Manchester United,Chris Smalling,Inglaterra,21,Defensa central 
+2011,Manchester United,Oliver Gill,Inglaterra,20,Defensa central 
+2011,Manchester United,Patrice Evra,Francia,30,Lateral izquierdo
+2011,Manchester United,Antonio Valencia,Ecuador,25,Lateral derecho
+2011,Manchester United,Rafael,Brasil,20,Lateral derecho
+2011,Manchester United,Fábio,Brasil,20,Lateral derecho
+2012,Manchester United,Ritchie De Laet,Belgica,22,Lateral derecho
+2011,Manchester United,Gary Neville,Inglaterra,36,Lateral derecho
+2011,Manchester United,Michael Carrick,Inglaterra,29,Mediocampista defensivo
+2011,Manchester United,Owen Hargreaves,Inglaterra,30,Mediocampista defensivo
+2011,Manchester United,Darren Fletcher,Escocia,27,Mediocampista
+2011,Manchester United,Anderson,Brasil,23,Mediocampista
+2011,Manchester United,Paul Scholes,Inglaterra,36,Mediocampista
+2011,Manchester United,Darron Gibson,Irlanda,23,Mediocampista
+2011,Manchester United,Tom Cleverley,Inglaterra,21,Mediocampista
+2011,Manchester United,Corry Evans,Irlanda del norte,20,Mediocampista
+2011,Manchester United,Paul Pogba,Francia,18,Mediocampista
+2011,Manchester United,Ryan Tunnicliffe,Inglaterra,18,Mediocampista
+2011,Manchester United,Ryan Giggs,Gales,37,Extremo izquierdo
+2011,Manchester United,Robbie Brady,Irlanda,19,Extremo izquierdo
+2011,Manchester United,Ji-sung Park,Corea del sur,30,Mediocampista ofensivo
+2011,Manchester United,Magnus Wolff Eikrem,Noruega,20,Mediocampista ofensivo
+2011,Manchester United,Nani,Portugal,24,Extremo izquierdo
+2011,Manchester United,Bebé,Portugal,20,Extremo izquierdo
+2011,Manchester United,Joshua King,Noruega,19,Extremo izquierdo
+2011,Manchester United,Gabriel Obertan,Francia,22,Extremo derecho
+2011,Manchester United,Wayne Rooney,Inglaterra,25,Delantero centro
+2011,Manchester United,Dimitar Berbatov,Bulgaria,30,Delantero centro
+2011,Manchester United,Javier Hernández,México,23,Delantero centro
+2011,Manchester United,Michael Owen,Inglaterra,31,Delantero centro
+2011,Manchester United,Danny Welbeck,Inglaterra,20,Delantero centro
+2011,Manchester United,Mame Diouf,Senegal,23,Delantero centro
+2011,Manchester United,Federico Macheda,Italia,19,Delantero centro
+2012,Chelsea,Petr Cech,Republica Checa,29,Portero
+2012,Chelsea,Ross Turnbull,Inglaterra,26,Portero
+2012,Chelsea,Hilario,Portugal,35,Portero
+2012,Chelsea,John Terry,Inglaterra,30,Defensa central 
+2012,Chelsea,David Luiz,Brasil,24,Defensa central 
+2012,Chelsea,Alex,Brasil,29,Defensa central 
+2012,Chelsea,Michael Mancienne,Inglaterra,23,Defensa central 
+2012,Chelsea,Jeffrey Bruma,Holanda,19,Defensa central 
+2012,Chelsea,Ashley Cole,Inglaterra,30,Lateral izquierdo
+2012,Chelsea,Ryan Bertrand,Inglaterra,21,Lateral izquierdo
+2012,Chelsea,Patrick van Aanholt,Holanda,21,Lateral izquierdo
+2012,Chelsea,Ivanovic,Serbia,27,Lateral derecho
+2012,Chelsea,Bosingwa,Portugal,28,Lateral derecho
+2012,Chelsea,Paulo Ferreira,Portugal,32,Lateral derecho
+2012,Chelsea,Michael Essien,Ghana,28,Mediocampista defensivo
+2012,Chelsea,John Obi Mikel,Nigeria,24,Mediocampista defensivo
+2012,Chelsea,Nathaniel Chalobah,Inglaterra,16,Mediocampista defensivo
+2012,Chelsea,Frank Lampard,Inglaterra,33,Mediocampista
+2012,Chelsea,Ramires,Brasil,24,Mediocampista
+2012,Chelsea,Josh McEachran,Inglaterra,18,Mediocampista
+2012,Chelsea,Jacob Mellis,Inglaterra,20,Mediocampista
+2012,Chelsea,Jacopo Sala,Italia,19,Mediocampista
+2012,Chelsea,Billy Clifford,Inglaterra,18,Mediocampista
+2012,Chelsea,Yuriy Zhirkov,Rusia,27,Extremo izquierdo
+2012,Chelsea,Gaël Kakuta ,Republica del Congo,20,Mediocampista ofensivo
+2012,Chelsea,Florent Malouda,Francia,31,Extremo izquierdo
+2012,Chelsea,Salomon Kalou,Irlanda,25,Extremo izquierdo
+2012,Chelsea,Fabio Borini,Italia,20,Extremo izquierdo
+2012,Chelsea,Yossi Benayoun,Israel,31,Extremo derecho
+2012,Chelsea,Fernando Torres,España,27,Delantero centro
+2012,Chelsea,Didier Drogba,Costa de marfil,33,Delantero centro
+2012,Chelsea,Nicolas Anelka,Francia,32,Delantero centro
+2012,Chelsea,Daniel Sturridge,Inglaterra,21,Delantero centro
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
+2012,Bayern Múnich,,,,
