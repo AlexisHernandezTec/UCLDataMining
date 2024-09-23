@@ -17,7 +17,7 @@ Año,Equipo,Nombre ,Nacionalidad,edad,Posicion
 2010,Inter de Milán,Sully Muntari,Ghana,25,Mediocampista
 2010,Inter de Milán,McDonald Mariga,Italia,27,Mediocampista ofensivo
 2010,Inter de Milán,Mario Balotelli,Keniata,23,Mediocentro
-2010,Bayern Múnich,Hans-Jörg Butt,Alenamia,35,Portero
+2010,Bayern Múnich,Hans-Jörg Butt,Alemania,35,Portero
 2010,Bayern Múnich,Philipp Lahm,Alemania,26,Lateral derecho
 2010,Bayern Múnich,Daniel Van Buyten,Bélgica,32,Defensa central 
 2010,Bayern Múnich,Martín Demichelis,Argentina,29,Defensa central 
@@ -141,41 +141,89 @@ Año,Equipo,Nombre ,Nacionalidad,edad,Posicion
 2012,Chelsea,Didier Drogba,Costa de marfil,33,Delantero centro
 2012,Chelsea,Nicolas Anelka,Francia,32,Delantero centro
 2012,Chelsea,Daniel Sturridge,Inglaterra,21,Delantero centro
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
-2012,Bayern Múnich,,,,
+2012,Bayern Múnich,Manuel Neuer,Alemania,26,Portero
+2012,Bayern Múnich,Hans-Jörg Butt,Alemania,38,Portero
+2012,Bayern Múnich,Maximiliam Riedmüller,Alemania,24,Portero
+2012,Bayern Múnich,Rouven Sattelmaier,Alemania,24,Portero
+2012,Bayern Múnich,Holger Badstuber,Alemania,23,Defensa central 
+2012,Bayern Múnich,David Alaba,Austria,20,Defensa central 
+2012,Bayern Múnich,Jérôme Boateng,Alemania,23,Defensa central 
+2012,Bayern Múnich,Daniel Van Buyten,Bulgaria,34,Defensa central 
+2012,Bayern Múnich,Breno,Brasil,22,Defensa central 
+2012,Bayern Múnich,Danijel Pranji,Croacia,30,Lateral izquierdo
+2012,Bayern Múnich,Diego Contento,Alemania,22,Lateral izquierdo
+2012,Bayern Múnich,Philipp Lahm,Alemania,28,Lateral derecho
+2012,Bayern Múnich,Rafinha,Brasil,26,Lateral Derecho
+2012,Bayern Múnich,Luis Gustavo,Brasil,24,Mediocampista defensivo
+2012,Bayern Múnich,Anatoliy Tymoshchuk,Ucrania,33,Mediocampista defensivo
+2012,Bayern Múnich,Emre Can,Alemania,18,Mediocampista defensivo
+2012,Bayern Múnich,Bastian Schweinsteiger,Alemania,27,Mediocentro
+2012,Bayern Múnich,Toni Kroos,Alemania,22,Mediocentro
+2012,Bayern Múnich,Franck Ribéry,Francia,29,Extremo izquierdo
+2012,Bayern Múnich,Arjen Robben,Holanda,28,Extremo derecho
+2012,Bayern Múnich,Thomas Müller,Alemania,22,Mediocampista ofensivo
+2012,Bayern Múnich,Mario Gómez,Alemania,26,Delantero centro
+2012,Bayern Múnich,Ivica Oli,Croacia,32,Delantero centro
+2012,Bayern Múnich,Nils Petersen,Alemania,23,Delantero centro
+2012,Bayern Múnich,Takashi Usami,Japón,20,Delantero centro
+2013,Borussia Dortmund,Roman Weindenfeller,Alemania,32,Portero
+2013,Borussia Dortmund,Mitchell Langerak,australia,24,Portero
+2013,Borussia Dortmund,Zlatan Alomerovic,Serbia,22,Portero
+2013,Borussia Dortmund,Mats Hummels,Alemania,24,Defensa central 
+2013,Borussia Dortmund,Neven Subotic,Serbia,24,Defensa central 
+2013,Borussia Dortmund,Felipe Santana,Brasil,27,Defensa central 
+2013,Borussia Dortmund,Koray Günter,Alemania,18,Defensa central 
+2013,Borussia Dortmund,Marcel Halstenberg,Alemania,21,Defensa central 
+2013,Borussia Dortmund,Marc Hornschuh,Alemania,22,Defensa central 
+2013,Borussia Dortmund,Marcel Schmelzer,Alemania,25,Lateral izquierdo
+2013,Borussia Dortmund,Chris Löwe,Alemania,24,Lateral izquierdo
+2013,Borussia Dortmund,Lukasz Piszczek,Polonia,28,Lateral derecho
+2013,Borussia Dortmund,Kevin Großkreutz,Alemania,24,Lateral derecho
+2013,Borussia Dortmund,Patrick Owomoyela,Alemania,33,Lateral derecho
+2013,Borussia Dortmund,Sven Bender,Alemania,24,Mediocampista defensivo
+2013,Borussia Dortmund,Nuri ?ahin,Turquía,24,Mediocampista defensivo
+2013,Borussia Dortmund,Sebastian Kehl,Alemania,33,Mediocampista defensivo
+2013,Borussia Dortmund,Oliver Kirch,Alemania,30,Mediocampista defensivo
+2013,Borussia Dortmund,Marvin Bakalorz,Alemania,23,Mediocampista defensivo
+2013,Borussia Dortmund,Ilkay Gündo?an,Alemania,22,Mediocentro
+2013,Borussia Dortmund,Moritz Leitner,Alemania,20,Mediocentro
+2013,Borussia Dortmund,Leonardo Bittencourt,Alemania,19,Mediocentro
+2013,Borussia Dortmund,Mustafa Amini,Australia,20,Mediocentro
+2013,Borussia Dortmund,Mario Götze,Alemania,21,Mediocampista ofensivo
+2013,Borussia Dortmund,Marco Reus,Alemania,24,Mediocampista ofensivo
+2013,Borussia Dortmund,Jonas Hofmann,Alemania,20,mediocampista ofensivo
+2013,Borussia Dortmund,Ivan Perisic,Croacia,24,Extremo izquierdo
+2013,Borussia Dortmund,Jakub Blaszczykowski,Polonia,27,Extremo izquierdo
+2013,Borussia Dortmund,Robert Lewandowski,Polonia,24,Delantero centro
+2013,Borussia Dortmund,Julian Schieber,Alemania,24,Delantero centro
+2013,Borussia Dortmund,Bálint Bajner,Hungría,22,Delantero centro
+2013,Bayern Múnich,Manuel Neuer,Alemania,27,Portero
+2013,Bayern Múnich,Tom Starke,Alemania,32,Portero
+2013,Bayern Múnich,Lukas Raeder,Alemania,19,Portero
+2013,Bayern Múnich,Maximiliam Riedmüller,Alemania,25,Portero
+2013,Bayern Múnich,David Alaba,Austria,21,Defensa central 
+2013,Bayern Múnich,Jérôme Boateng,Alemania,24,Defensa central 
+2013,Bayern Múnich,Dante,Brasil,29,Defensa central 
+2013,Bayern Múnich,Holger Badstuber,Alemania,24,Defensa central 
+2013,Bayern Múnich,Daniel Van Buyten,Belgica,35,Defensa central 
+2013,Bayern Múnich,Diego Contento,Alemania,23,Lateral izquierdo
+2013,Bayern Múnich,Philipp Lahm,Alemania,29,Lateral derecho
+2013,Bayern Múnich,Rafinha,Brasil,27,Lateral derecho
+2013,Bayern Múnich,Mitchell Weiser,Alemania,19,Lateral derecho
+2013,Bayern Múnich,Vladimir Rankovic,Alemania,20,Lateral derecho
+2013,Bayern Múnich,Javi Martínez,España,24,Mediocampista defensivo
+2013,Bayern Múnich,Luiz Gustavo,Brasil,25,Mediocampista defensivo
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
+2013,Bayern Múnich,,,,
