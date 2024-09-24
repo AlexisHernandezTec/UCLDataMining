@@ -1,4 +1,4 @@
-Año,Equipo,Nombre ,Nacionalidad,edad,Posicion 
+Año,Equipo,Nombre ,Nacionalidad,Edad,Posicion 
 2010,Inter de Milán,Julio César,Brasil,30,Portero
 2010,Inter de Milán,Maicon ,Brasil,28,Lateral derecho
 2010,Inter de Milán,Lucio,Brasil,32,Defensa central 
@@ -612,26 +612,243 @@ Año,Equipo,Nombre ,Nacionalidad,edad,Posicion
 2019,Tottenham Hotspur,Vincent Janssen,Holanda,25,Delantero centro
 2019,Tottenham Hotspur,Fernando Llorente,España,34,Delantero centro
 2019,Tottenham Hotspur,Kazaiah Sterling,Inglaterra,20,Delantero centro
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
-2020,Bayern Múnich,,,,
+2020,Bayern Múnich,Manuel Neuer,Alemania,34,Portero
+2020,Bayern Múnich,Sven Ulreich,Alemania,31,Portero
+2020,Bayern Múnich,Christian Früchtl,Alemania,20,Portero
+2020,Bayern Múnich,Ron-Thorben Hoffmann,Alemania,21,Portero
+2020,Bayern Múnich,David Alaba,Austria,28,Defensa central 
+2020,Bayern Múnich,Niklas Süle,Alemania,24,Defensa central 
+2020,Bayern Múnich,Benjamin Pavard,Francia,24,Defensa central 
+2020,Bayern Múnich,Jérôme Boateng,Alemania,31,Defensa central 
+2020,Bayern Múnich,Lukas Mai,Alemania,20,Defensa central 
+2020,Bayern Múnich,Chris Richards,Estados Unidos,20,Defensa central 
+2020,Bayern Múnich,Bright Arrey-Mbi,Alemania,17,Defensa central 
+2020,Bayern Múnich,Lucas Hernández,Francia,24,Lateral Izquierdo
+2020,Bayern Múnich,Alphonso Davies,Canadá,19,lateral Izquierdo
+2020,Bayern Múnich,Álvaro Odriozola,España,24,Lateral derecho
+2020,Bayern Múnich,Ryan Johansson,Irlanda,19,Lateral derecho
+2020,Bayern Múnich,Javi Martínez,España,31,Mediocampista defensivo
+2020,Bayern Múnich,Paul Will,Alemania,21,Mediocampista defensivo
+2020,Bayern Múnich,Joshua Kimmich,Alemania,25,Mediocentro
+2020,Bayern Múnich,Thiago Alcántara,España,29,Mediocentro
+2020,Bayern Múnich,Leon Goretzka,Alemania,25,Mediocentro
+2020,Bayern Múnich,Corentin Tolisso,Francia,25,Mediocentro
+2020,Bayern Múnich,Renato Sanches,Portugal,22,Mediocentro
+2020,Bayern Múnich,Michaël Cuisance,Francia,20,Mediocentro
+2020,Bayern Múnich,Philippe Coutinho,Brasil,28,mediocampista ofensivo
+2020,Bayern Múnich,Woo-yeong Jeong,Corea del sur,20,Mediocampista Ofensivo
+2020,Bayern Múnich,Sarpreet Singh,Nueva Zelanda,21,Mediocampista ofensivo
+2020,Bayern Múnich,Oliver Batista Meier,Alemania,19,Mediocampista Ofensivo
+2020,Bayern Múnich,Malik Tillman,Estados Unidos,18,Mediocampista ofensivo
+2020,Bayern Múnich,Jamal Musiala,Alemania,17,Mediocampista Ofensivo
+2020,Bayern Múnich,Kingsley Coman,Francia,24,Extremo izquierdo
+2020,Bayern Múnich,Ivan Perisic,Croacia,31,Extremo izquierdo
+2020,Bayern Múnich,Serge Gnabry,Alemania,24,Extremo derecho
+2020,Bayern Múnich,Thomas Müller,Alemania,30,Mediocampista ofensivo
+2020,Bayern Múnich,Leon Dajaku,Alemania,19,Mediocampista Ofensivo
+2020,Bayern Múnich,Robert Lewandowski,Polonia,31,Delantero centro
+2020,Bayern Múnich,Fiete Arp,Alemania,20,Delantero centro
+2020,Bayern Múnich,Kwasi Wriedt,Ghana,25,Delantero centro
+2020,París Saint-Germain ,Alphonse Areola,Francia,27,Portero
+2020,París Saint-Germain ,Kevin Trapp,Alemania,29,Portero
+2020,París Saint-Germain ,Keylor Navas,Costa Rica,33,Portero
+2020,París Saint-Germain ,Sergio Rico,España,26,Portero
+2020,París Saint-Germain ,Marcin Bulka,Polonia,20,Portero
+2020,París Saint-Germain ,Farissone Innocent,Francia,20,Portero
+2020,París Saint-Germain ,Marquinhos,Brasil,26,Defensa central 
+2020,París Saint-Germain ,Presnel Kimpembe,Francia,24,Defensa central 
+2020,París Saint-Germain ,Thilo Kehrer,Alemania,23,Defensa central 
+2020,París Saint-Germain ,Abdou Diallo,Francia,24,Defensa central 
+2020,París Saint-Germain ,Tanguy Nianzou,Francia,18,Defensa central 
+2020,París Saint-Germain ,Thiago Silva,Brasil,35,Defensa central 
+2020,París Saint-Germain ,Loïc Mbe Soh,Camerún ,19,Defensa central 
+2020,París Saint-Germain ,Juan Bernat,España,27,Lateral Izquierdo
+2020,París Saint-Germain ,Layvin Kurzawa,Francia,27,Lateral Izquierdo
+2020,París Saint-Germain ,Arthur Zagré,Francia,18,Lateral Izquierdo
+2020,París Saint-Germain ,Mitchel Bakker,Holanda,20,Lateral Izquierdo
+2020,París Saint-Germain ,Thomas Meunier,Belgica,28,Lateral derecho
+2020,París Saint-Germain ,Colin Dagba,Francia,21,Lateral Derecho
+2020,París Saint-Germain ,Leandro Paredes,Argentina,26,Mediocampista defensivo
+2020,París Saint-Germain ,Marco Verratti,Italia,27,Mediocentro
+2020,París Saint-Germain ,Idrissa Gueye,Camerún ,30,Mediocentro
+2020,París Saint-Germain ,Ander Herrera,España,30,Mediocentro
+2020,París Saint-Germain ,Kays Ruis-Atil,Marruecos,17,Mediocentro
+2020,París Saint-Germain ,Adil Aouchiche,Francia,17,Mediocampista ofensivo
+2020,París Saint-Germain ,Neymar,Brasil,28,Extremo izquierdo
+2020,París Saint-Germain ,Julian Draxler,Alemania,26,Extremo izquierdo
+2020,París Saint-Germain ,Jesé Rodríguez,España,27,Extremo izquierdo
+2020,París Saint-Germain ,Ángel Di María,Argentina,32,Extremo derecho
+2020,París Saint-Germain ,Pablo Sarabia,España,28,Extremo derecho
+2020,París Saint-Germain ,Kylian Mbappé,Francia,21,Delantero centro
+2020,París Saint-Germain ,Mauro Icardi,Argentina,27,Delantero centro
+2020,París Saint-Germain ,Edinson Cavano,Uruguay,33,Delantero centro
+2020,París Saint-Germain ,Eric-Maxim Choupo-Moting,Camerún ,31,Delantero centro
+2020,París Saint-Germain ,Arbaud Kalimuendo,Francia,18,Delantero centro
+2021,Chelsea,Edouard Mendy,Senegal,29,Portero
+2021,Chelsea,Kepa Arrizabalaga,España,16,Portero
+2021,Chelsea,Jamal Blackman,Inglaterra,27,Portero
+2021,Chelsea,Nathan Baxter,Inglaterra,22,Portero
+2021,Chelsea,Willy Caballero,Argentina,39,Portero
+2021,Chelsea,Karlo Ziger,Croacia,20,Portero
+2021,Chelsea,Kurt Zouma,Francia,26,Defensa central 
+2021,Chelsea,Andreas Christensen,Dinamarca,25,Defensa central 
+2021,Chelsea,Antonio Rüdiger,Alemania,28,Defensa central 
+2021,Chelsea,Fikayo Tomori,Inglaterra,23,Defensa central 
+2021,Chelsea,César Azpilicueta,España,31,Defensa central 
+2021,Chelsea,Thiago Silva,Brasil,36,Defensa central 
+2021,Chelsea,Jake Clarke-Salter,Inglaterra,23,Defensa central 
+2021,Chelsea,Ben Chilwell,Inglaterra,24,Lateral izquierdo
+2021,Chelsea,Marcos Alonso,España,30,Lateral izquierdo
+2021,Chelsea,Emerson,Italia,26,Lateral izquierdo
+2021,Chelsea,Reece James,Inglaterra,21,Lateral derecho
+2021,Chelsea,Tino Livramento,Inglaterra,18,Lateral derecho
+2021,Chelsea,N´Golo Kanté,Francia,30,Mediocampista defensivo
+2021,Chelsea,Jorginho,Italia,29,Mediocampista defensivo
+2021,Chelsea,Ethan Ampadu,Gales,20,Mediocampista defensivo
+2021,Chelsea,Billy Gilmour,Escocia,20,Mediocampista defensivo
+2021,Chelsea,Mateo Kovacic,Croacia,27,Mediocentro
+2021,Chelsea,Ross Barkley,Inglaterra,27,Mediocentro
+2021,Chelsea,Ruben Loftuns-Cheek,Inglaterra,25,Mediocentro
+2021,Chelsea,Conor Gallagher,Inglaterra,21,Mediocentro
+2021,Chelsea,Lewis Bate,Inglaterra,18,Mediocentro
+2021,Chelsea,Mason Mount,Inglaterra,22,Mediocampista ofensivo
+2021,Chelsea,Tino Anjorin,Inglaterra,19,Mediocampista ofensivo
+2021,Chelsea,Timo Werner,Alemania,25,Extremo izquierdo
+2021,Chelsea,Callum Hudson-Odoi,Inglaterra,20,Extremo izquierdo
+2021,Chelsea,Izzy Brown,Inglaterra,24,Extremo izquierdo
+2021,Chelsea,Charly Musonda Jr.,Belgica,24,Extremo izquierdo
+2021,Chelsea,Christian Pulisic,Estados Unidos,22,Extremo derecho
+2021,Chelsea,Hakim Ziyech,Marruecos,28,Extremo derecho
+2021,Chelsea,Kai Havertz,Alemania,22,Delantero centro
+2021,Chelsea,Tammy Abraham,Inglaterra,23,Delantero centro
+2021,Chelsea,Michy Batshuayi,Belgica,27,Delantero centro
+2021,Chelsea,Oliver Giroud,Francia,34,Delantero centro
+2021,Manchester City,Ederson,Brasil,27,Portero
+2021,Manchester City,Zack Steffen,Estados Unidos,26,Portero
+2021,Manchester City,Scott Carson,Inglaterra,35,Portero
+2021,Manchester City,James Traffor,Inglaterra,18,Portero
+2021,Manchester City,Rúben Dias,Portugal,24,Defensa central 
+2021,Manchester City,Aymeric Laporte,España,27,Defensa central 
+2021,Manchester City,Nathan Aké,Holanda,26,Defensa central 
+2021,Manchester City,John Stones,Inglaterra,27,Defensa central 
+2021,Manchester City,Eric García,España,20,Defensa central 
+2021,Manchester City,Nicolás Otamendi,Argentina,33,Defensa central 
+2021,Manchester City,Taylor Harwood-Bellis,Inglaterra,19,Defensa central 
+2021,Manchester City,Philipe Sandler,Holanda,24,Defensa central 
+2021,Manchester City,Luke Mbete,Inglaterra,17,Defensa central 
+2021,Manchester City,Oleksandr Zinchenko,Ucrania,24,Lateral Izquierdo
+2021,Manchester City,Benjamin Mendy,Francia,26,Lateral Izquierdo
+2021,Manchester City,Joäo Cancelo,Portugal,27,Lateral Derecho
+2021,Manchester City,Kyle Walker-Peters,Inglaterra,31,Lateral Derecho
+2021,Manchester City,Rodri,España,25,Mediocampista defensivo
+2021,Manchester City,Fernandinho,Brasil,36,Mediocampista defensivo
+2021,Manchester City,Claudio Gomes,Francia,20,Mediocampista defensivo
+2021,Manchester City,Ilkay Gündo?an,Alemania,30,Mediocentro
+2021,Manchester City,Adrián Bernabé,Francia,20,Mediocentro
+2021,Manchester City,Tommy Doyle,Inglaterra,19,Mediocentro
+2021,Manchester City,Felix Nmecha,Alemania,20,Mediocentro
+2021,Manchester City,Kevin De Bruyne,Belgica,30,Mediocampista Ofensivo
+2021,Manchester City,Bernardo Silva,Portugal,26,Mediocampista Ofensivo
+2021,Manchester City,Cole Palmer,Inglaterra,19,Mediocampista Ofensivo
+2021,Manchester City,Raheem Sterling,Inglaterra,26,Extremo izquierdo
+2021,Manchester City,Phil Foden,Inglaterra,21,Extremo derecho
+2021,Manchester City,Ferran Torres,España,21,Extremo derecho
+2021,Manchester City,Riyad Mahrez,Argelia,30,Extremo derecho
+2021,Manchester City,Jack Harrison,Inglaterra,24,Extremo derecho
+2021,Manchester City,Patrick Roberts,Inglaterra,24,Extremo derecho
+2021,Manchester City,Gabriel Jesús,Brasil,24,Delantero centro
+2021,Manchester City,Sergio Agüero,Argentina,33,Delantero centro
+2021,Manchester City,Liam Delap,Inglaterra,18,Delantero centro
+2022,Liverpool,Alisson,Brasil,29,Portero
+2022,Liverpool,Caoimhín Kelleher,Brasil,23,Portero
+2022,Liverpool,Loris Karius,Alemania,29,Portero
+2022,Liverpool,Adrián,España,35,Portero
+2022,Liverpool,Marcelo Pitaluga,Brasil,19,Portero
+2022,Liverpool,Liam Hughes,Irlanda del norte,20,Portero
+2022,Liverpool,Harvey Davies,Inglaterra,18,Portero
+2022,Liverpool,Virgil Van Dijk,Holanda,30,Defensa central 
+2022,Liverpool,Ibrahima Konaté,Francia,23,Defensa central 
+2022,Liverpool,Joe Gomez,Inglaterra,25,Defensa central 
+2022,Liverpool,Joel Matip,Camerún ,30,Defensa central 
+2022,Liverpool,Nat Phillips,Inglaterra,25,Defensa central 
+2022,Liverpool,Sepp van den Berg,Holanda,20,Defensa central 
+2022,Liverpool,Rhys Williams,Inglaterra,21,Defensa central 
+2022,Liverpool,Ben Davies,Inglaterra,26,Defensa central 
+2022,Liverpool,Billy Koumetio,Francia,19,Defensa central 
+2022,Liverpool,Jarell Quansah,Inglaterra,19,Defensa central 
+2022,Liverpool,Andrew Robertson,Escocia,28,Lateral izquierdo
+2022,Liverpool,Konstantinos Tsimikas,Grecia,26,Lateral izquierdo
+2022,Liverpool,Owen Beck,Gales,19,Lateral izquierdo
+2022,Liverpool,James Norris,Inglaterra,19,Lateral izquierdo
+2022,Liverpool,Trent Alexander-Arnold,Inglaterra,23,Lateral derecho
+2022,Liverpool,Neco Williams,Gales,21,Lateral derecho
+2022,Liverpool,Conor Bradley,Irlanda del norte,18,Lateral derecho
+2022,Liverpool,Isaac Mabaya,Zimbabue,17,Lateral derecho
+2022,Liverpool,Fabinho,Brasil,28,Mediocampista defensivo
+2022,Liverpool,Tyler Morton,Inglaterra,19,Mediocampista defensivo
+2022,Liverpool,Curtis Jones,Inglaterra,21,Mediocentro
+2022,Liverpool,Naby Keïta ,Guinea,27,Mediocentro
+2022,Liverpool,Harvey Elliott,Inglaterra,19,Mediocentro
+2022,Liverpool,Thiago Alcántara,España,31,Mediocentro
+2022,Liverpool,Alex Oxlade-Chamberlain,Inglaterra,28,Mediocentro
+2022,Liverpool,Jordan Henderson,Inglaterra,32,Mediocentro
+2022,Liverpool,James Milner,Inglaterra,36,Mediocentro
+2022,Liverpool,Elijah Dixon-Bonner,Inglaterra,21,Mediocentro
+2022,Liverpool,James Balagizi,Inglaterra,18,Mediocentro
+2022,Liverpool,Ben Woodburn,Gales,22,Mediocampista ofensivo
+2022,Liverpool,Sadio Mané,Senegal,30,Extremo izquierdo
+2022,Liverpool,Luis Díaz,Colombia,25,Extremo izquierdo
+2022,Liverpool,Takumi Minamino,Japón,27,Extremo izquierdo
+2022,Liverpool,Harvey Blair,Inglaterra,18,Extremo izquierdo
+2022,Liverpool,Mohamed Salah,Egipto,30,Extremo derecho
+2022,Liverpool,Sheyi Ojo,Inglaterra,25,Extremo derecho
+2022,Liverpool,Kaide Gordon,Inglaterra,17,Extremo derecho
+2022,Liverpool,Melkamu Frauendorf,Alemania,18,Extremo derecho
+2022,Liverpool,Diogo Jota,Portugal,25,Delantero centro
+2022,Liverpool,Roberto Firmino,Brasil,30,Delantero centro
+2022,Liverpool,Divock Origi,Belgica,27,Delantero centro
+2022,Liverpool,Max Woltman,Inglaterra,18,Delantero centro
+2022,Real Madrid,Thibaut Courtois,Belgica,30,Portero
+2022,Real Madrid,Andriy Lunin,Ucrania,23,Portero
+2022,Real Madrid,Luis López,España,21,Portero
+2022,Real Madrid,Toni Fuidias,España,21,Portero
+2022,Real Madrid,Diego Piñeiro,España,18,Portero
+2022,Real Madrid,Éder Militaö,Brasil,24,Defensa central 
+2022,Real Madrid,David Alaba,Austria,30,Defensa central 
+2022,Real Madrid,Nacho Fernández,España,32,Defensa central 
+2022,Real Madrid,Jesús Vallejo,España,25,Defensa central 
+2022,Real Madrid,Mario Gila,España,21,Defensa central 
+2022,Real Madrid,Rafa Marín,España,20,Defensa central 
+2022,Real Madrid,Ferland Mendy,Francia,27,Lateral izquierdo
+2022,Real Madrid,Miguel Guitiérrez,España,20,Lateral izquierdo
+2022,Real Madrid,Marcelo,Brasil,34,Lateral izquierdo
+2022,Real Madrid,Daniel Carvajal,España,30,Lateral derecho
+2022,Real Madrid,Lucas Vázquez,España,30,Lateral derecho
+2022,Real Madrid,Álvaro Odriozola,España,26,Lateral derecho
+2022,Real Madrid,Sergio Santos,España,21,Lateral derecho
+2022,Real Madrid,Casemiro,Brasil,30,Mediocampista defensivo
+2022,Real Madrid,Antonio Blanco,España,21,Mediocampista defensivo
+2022,Real Madrid,Federico Valverde,Uruguay,12,Mediocentro
+2022,Real Madrid,Eduardo Camavinga,Francia,19,Mediocentro
+2022,Real Madrid,Toni Kroos,Alemania,32,Mediocentro
+2022,Real Madrid,Dani Ceballos,España,25,Mediocentro
+2022,Real Madrid,Luka Modric,Croacia,36,Mediocentro
+2022,Real Madrid,Isco,España,30,Mediocampista ofensivo
+2022,Real Madrid,Vinicius Junior,Brasil,21,Extremo izquierdo
+2022,Real Madrid,Eden Hazard,Belgica,31,Extremo izquierdo
+2022,Real Madrid,Rodrygo,Brasil,21,Extremo derecho
+2022,Real Madrid,Marco Asensio,España,26,Extremo derecho
+2022,Real Madrid,Gareth Bale,Gales,32,Extremo derecho
+2022,Real Madrid,Peter Federico,Republica Dominicana,19,Extremo derecho
+2022,Real Madrid,Karim Benzema,Francia,34,Delantero centro
+2022,Real Madrid,Luka Jovic,Serbia,24,Delantero centro
+2022,Real Madrid,Mariano Díaz,Republica Dominicana,28,Delantero centro
+2022,Real Madrid,Juanmi Latasa,España,21,Delantero centro
+2023,,,,,
+2023,,,,,
+2023,,,,,
+2023,,,,,
+2023,,,,,
+2023,,,,,
+2023,,,,,
+2023,,,,,
