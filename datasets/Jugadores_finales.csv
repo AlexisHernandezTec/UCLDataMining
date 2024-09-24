@@ -844,11 +844,108 @@ Año,Equipo,Nombre ,Nacionalidad,Edad,Posicion
 2022,Real Madrid,Luka Jovic,Serbia,24,Delantero centro
 2022,Real Madrid,Mariano Díaz,Republica Dominicana,28,Delantero centro
 2022,Real Madrid,Juanmi Latasa,España,21,Delantero centro
-2023,,,,,
-2023,,,,,
-2023,,,,,
-2023,,,,,
-2023,,,,,
-2023,,,,,
-2023,,,,,
-2023,,,,,
+2023,Manchester City,Ederson,Brasil,29,Portero
+2023,Manchester City,Stefan Ortega,Alemania,30,Portero
+2023,Manchester City,Zack Steffen,Estados Unidos,28,Portero
+2023,Manchester City,Scott Carson,Inglaterra,37,Portero
+2023,Manchester City,Rúben Dias,Portugal,26,Defensa central 
+2023,Manchester City,Nathan Aké,Holanda,28,Defensa central 
+2023,Manchester City,John Stones,Inglaterra,29,Defensa central 
+2023,Manchester City,Manuel Akanji,Suiza,27,Defensa central 
+2023,Manchester City,Aymeric Laporte,España,29,Defensa central 
+2023,Manchester City,Luke Mbete,Inglaterra,19,Defensa central 
+2023,Manchester City,Josh Wilson-Esbrand,Inglaterra,20,Lateral izquierdo
+2023,Manchester City,Benjamin Mendy,Francia,28,Lateral izquierdo
+2023,Manchester City,Joäo Cancelo,Portugal,29,Lateral derecho
+2023,Manchester City,Rico Lewis,Inglaterra,18,Lateral derecho
+2023,Manchester City,Kyle Walker-Peters,Inglaterra,33,Lateral derecho
+2023,Manchester City,Rodri,España,27,Mediocampista defensivo
+2023,Manchester City,Kalvin Phillips,Inglaterra,27,Mediocampista defensivo
+2023,Manchester City,Máximo Perrone,Argentina,20,Mediocampista defensivo
+2023,Manchester City,Claudio Gomes,Francia,22,Mediocampista defensivo
+2023,Manchester City,Shea Charles,Irlanda del norte,19,Mediocampista defensivo
+2023,Manchester City,Ilkay Gündo?an,Alemania,32,Mediocentro
+2023,Manchester City,Alex Robertson,Australia,20,Mediocentro
+2023,Manchester City,Bernardo Silva,Portugal,28,Mediocampista ofensivo
+2023,Manchester City,Kevin De Bruyne,Belgica,32,Mediocampista ofensivo
+2023,Manchester City,Cole Palmer,Inglaterra,21,Mediocampista ofensivo
+2023,Manchester City,Nico O'Reilly,Inglaterra,18,Mediocampista ofensivo
+2023,Manchester City,Jack Gralish,Inglaterra,27,Extremo izquierdo
+2023,Manchester City,Phil Foden,Inglaterra,23,Extremo derecho
+2023,Manchester City,Riyad Mahrez,Argelia,32,Extremo derecho
+2023,Manchester City,Sergio Gómez,España,22,Extremo derecho
+2023,Manchester City,Ben Knight,Inglaterra,21,Extremo derecho
+2023,Manchester City,Erling Haaland,Noruega,22,Delantero centro
+2023,Manchester City,Julián Alvarez,Argentina,23,Delantero centro
+2023,Manchester City,Liam Delap,Inglaterra,20,Delantero centro
+2023,Manchester City,André Onana,Camerún ,27,Portero
+2023,Manchester City,Samir Handanovic,Eslovenia,30,Portero
+2023,Manchester City,Gabriel Brazäo,Brasil,22,Portero
+2023,Manchester City,Alex Cordaz,Italia,40,Portero
+2023,Manchester City,Nikolaos Botis,Grecia,19,Portero
+2023,Manchester City,Alessandro Bastoni,Italia,24,Defensa central 
+2023,Manchester City,Milan Skriniar,Eslovaquia,28,Defensa central 
+2023,Manchester City,Stefan de Vrij,Holanda,31,Defensa central 
+2023,Manchester City,Francesco Acerbi,Italia,35,Defensa central 
+2023,Manchester City,Danilo D'Ambrosio,Italia,34,Defensa central 
+2023,Manchester City,Alessandro Fontanarosa,Italia,20,Defensa central 
+2023,Manchester City,Federico Dimarco,Italia,25,Lateral izquierdo
+2023,Manchester City,Dalbert,Brasil,29,Lateral izquierdo
+2023,Manchester City,Denzel Dumfries,Holanda,27,Lateral derecho
+2023,Manchester City,Raoul Bellanova,Inglaterra,23,Lateral derecho
+2023,Manchester City,Matteo Darmian,Inglaterra,33,Lateral derecho
+2023,Manchester City,Mattia Zanotti,Inglaterra,20,Lateral derecho
+2023,Manchester City,Hakan Çalhano?lu,Turquía,29,Mediocampista defensivo
+2023,Manchester City,Marcelo Brozovic,Croacia,30,Mediocampista defensivo
+2023,Manchester City,Kristjan Asllani,Albania,21,Mediocampista defensivo
+2023,Manchester City,Lucien Agoumé,Francia,21,Mediocampista defensivo
+2023,Manchester City,Aleksandar Stankovic,Serbia,17,Mediocampista defensivo
+2023,Manchester City,Nicoló Barella,Italia,26,Mediocentro
+2023,Manchester City,Henrikh Mkhitaryan,Armenia,34,Mediocentro
+2023,Manchester City,Roberto Gagliardini,Italia,29,Mediocentro
+2023,Manchester City,Ebenezer Akinsanmiro,Nigeria,18,Mediocentro
+2023,Manchester City,Robin Gosens,Alemania,28,Extremo izquierdo
+2023,Manchester City,Valentín Carboni,Argentina,18,Mediocampista ofensivo
+2023,Manchester City,Issiaka Kamate,Francia,18,Extremo derecho
+2023,Manchester City,Joaquín Correa,Argentina,28,Mediocampista ofensivo
+2023,Manchester City,Lautaro Martínez,Argentina,25,Delantero centro
+2023,Manchester City,Romelu Lukaku,Belgica,30,Delantero centro
+2023,Manchester City,Edin Dzeko,Bosnia,37,Delantero centro
+2023,Manchester City,Eddie Salcedo,Italia,21,Delantero centro
+2023,Manchester City,Dennis Curatolo,Italia,19,Delantero centro
+2024,Borussia Dortmund,Gregor Kobel,Suiza,25,Portero
+2024,Borussia Dortmund,Marcel Lotka,Alemania,22,Portero
+2024,Borussia Dortmund,Alexander Meyer,Alemania,32,Portero
+2024,Borussia Dortmund,Hendry Blank,Alemania,19,Defensa central 
+2024,Borussia Dortmund,Nico Schlotterbeck,Alemania,23,Defensa central 
+2024,Borussia Dortmund,Niklas Süle,Alemania,27,Defensa central 
+2024,Borussia Dortmund,Mats Hummels,Alemania,34,Defensa central 
+2024,Borussia Dortmund,Antonios Papadopoulos,Alemania,23,Defensa central 
+2024,Borussia Dortmund,Ian Maatsen,Holanda,22,Lateral izquierdo
+2024,Borussia Dortmund,Ramy Bensabaini,Argelia,29,Lateral izquierdo
+2024,Borussia Dortmund,Guille Bueno,España,21,Lateral izquierdo
+2024,Borussia Dortmund,Julian Ryerson,Noruega,26,Lateral derecho
+2024,Borussia Dortmund,Marius Wolf,Alemania,29,Lateral derecho
+2024,Borussia Dortmund,Thomas Meunier,Belgica,32,Lateral derecho
+2024,Borussia Dortmund,Mateu Morey,España,24,Lateral derecho
+2024,Borussia Dortmund,Salih Özcan,Turquía,26,Mediocampista defensivo
+2024,Borussia Dortmund,Emre Can,Alemania,30,Mediocampista defensivo
+2024,Borussia Dortmund,Abdoulaye,Guinea,19,Mediocampista defensivo
+2024,Borussia Dortmund,Felix Nmecha,Alemania,23,Mediocentro
+2024,Borussia Dortmund,Marcel Sabitzer,Austria,30,Mediocentro
+2024,Borussia Dortmund,Kjell Wätjen,Alemania,18,Mediocentro
+2024,Borussia Dortmund,Ole Pohlmann,Alemania,23,Mediocentro
+2024,Borussia Dortmund,Julian Brandt,Alemania,28,Mediocampista ofensivo
+2024,Borussia Dortmund,Giovanni Reyna,Estados Unidos,21,Mediocampista ofensivo
+2024,Borussia Dortmund,Marco Reus,Alemania,35,Mediocampista ofensivo
+2024,Borussia Dortmund,Jadon Sancho,Inglaterra,24,Extremo izquierdo
+2024,Borussia Dortmund,Karim Adeyemi,Alemania,22,Extremo izquierdo
+2024,Borussia Dortmund,Jamie Gittens,Inglaterra,19,Extremo izquierdo
+2024,Borussia Dortmund,Thorgan Hazard,Belgica,31,Extremo izquierdo
+2024,Borussia Dortmund,Donyell Malen,Holanda,25,Extremo derecho
+2024,Borussia Dortmund,Julien Duranville,Belgica,18,Extremo derecho
+2024,Borussia Dortmund,Samuel Bamba,Alemania,20,Extremo derecho
+2024,Borussia Dortmund,Youssoufa Moukoko,Alemania,19,Delantero centro
+2024,Borussia Dortmund,Niclas Füllkrug,Alemania,31,Delantero centro
+2024,Borussia Dortmund,Sébastien Haller,Costa de marfil,30,Delantero centro
+2024,Borussia Dortmund,Paris Brunner,Alemania,18,Delantero centro
