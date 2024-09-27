@@ -1,0 +1,964 @@
+,Año,Equipo,Nombre ,Nacionalidad,Edad,Posicion 
+0,2010,Inter de Milán,Julio César,Brasil,30,Portero
+1,2010,Inter de Milán,Maicon ,Brasil,28,Lateral derecho
+2,2010,Inter de Milán,Lucio,Brasil,32,Defensa central 
+3,2010,Inter de Milán,Walter Samuel,Argentina,32,Defensa central 
+4,2010,Inter de Milán,Javier Zanetti,Argentina ,36,Lateral derecho
+5,2010,Inter de Milán,Cristian Chivu,Rumania,29,Lateral Izquierdo
+6,2010,Inter de Milán,Esteban Cambiasso,Argentina,29,Mediocampista defensivo
+7,2010,Inter de Milán,Wesley Sneijder,Países bajos,26,Mediocampista ofensivo
+8,2010,Inter de Milán,Goran Pandev,Macedionia del norte ,26,Delantero
+9,2010,Inter de Milán,Diego Milito ,Argentina,30,Delantero centro
+10,2010,Inter de Milán,Samuel Eto'o,Camerún ,29,Delantero
+11,2010,Inter de Milán,Francesco Toldo ,Italia,38,Protero
+12,2010,Inter de Milán,Ivan Córdoba,Colombia,33,Defensa central 
+13,2010,Inter de Milán,Marco Materazzi,Italia,36,Defensa central 
+14,2010,Inter de Milán,Dejan Stankovi?,Serbia,31,Mediocampista
+15,2010,Inter de Milán,Sully Muntari,Ghana,25,Mediocampista
+16,2010,Inter de Milán,McDonald Mariga,Italia,27,Mediocampista ofensivo
+17,2010,Inter de Milán,Mario Balotelli,Keniata,23,Mediocentro
+18,2010,Bayern Múnich,Hans-Jörg Butt,Alemania,35,Portero
+19,2010,Bayern Múnich,Philipp Lahm,Alemania,26,Lateral derecho
+20,2010,Bayern Múnich,Daniel Van Buyten,Bélgica,32,Defensa central 
+21,2010,Bayern Múnich,Martín Demichelis,Argentina,29,Defensa central 
+22,2010,Bayern Múnich,Holger Badstuber,Alemania,21,Lateral izquierdo
+23,2010,Bayern Múnich,Mark van Bommel,Países bajos,33,Mediocampista defensivo
+24,2010,Bayern Múnich,Bastian Schweinsteiger,Alemania,25,Mediocampista central
+25,2010,Bayern Múnich,Arjen Robben,Países bajos,26,Extremo derecho
+26,2010,Bayern Múnich,Thomas Müller,Alemania,20,Mediocampista ofensivo
+27,2010,Bayern Múnich,Ivica Oli?,Croacia,30,Delantero
+28,2010,Bayern Múnich,Hamít Alt?ntop,Turquía,27,Mediocampista
+29,2010,Bayern Múnich,Michael Rensing,Alemania,26,Portero
+30,2010,Bayern Múnich,Diego Contento,Alemania,20,Lateral Izquierdo
+31,2010,Bayern Múnich,Anatoliy Tymoshchuk,Ucrania,31,Mediocampista defensivo
+32,2010,Bayern Múnich,Mario Gómez,Alemania,24,Delantero
+33,2010,Bayern Múnich,Miroslav Klose,Alemania,31,Delantero centro
+34,2010,Bayern Múnich,Danijel Pranji?,Croacia,29,Centrocampista
+35,2010,Bayern Múnich,Andreas Görlitz,Alemania,28,Defensa
+36,2011,Barcelona,Víctor Valdés,España,29,Portero
+37,2011,Barcelona,Dani Alves,Brasil,28,Lateral derecho
+38,2011,Barcelona,Gerard Piqué,España,24,Defensa central 
+39,2011,Barcelona,José Manuel Pinto ,España,35,Portero
+40,2011,Barcelona,Carles Puyol,España,33,Defensa central 
+41,2011,Barcelona,Gabriel Milito,Argentina,30,Defensa central 
+42,2011,Barcelona,Marc Munisa,España,19,Defensa central 
+43,2011,Barcelona,Andreu Fontás,España,21,Defensa central 
+44,2011,Barcelona,Marc Bartra,España,20,Defensa central 
+45,2011,Barcelona,Sergi Gomez,España,19,Defensa central 
+46,2011,Barcelona,Eric Abidal,Francia,31,Lateral izquierdo
+47,2011,Barcelona,Adriano ,Brasil,26,Lateral izquierdo
+48,2011,Barcelona,Maxwell,Brasil,29,Lateral izquierdo
+49,2011,Barcelona,Martín Montoya,España,20,Lateral derecho
+50,2011,Barcelona,Sergio Busquets,España,22,Mediocampista defensivo
+51,2011,Barcelona,Javier Mascherano,Argentina,27,Mediocampista defensivo
+52,2011,Barcelona,Jonathan dos Santos,México,22,Mediocampista defensivo
+53,2011,Barcelona,Andrés Iniesta,España,27,Mediocampista
+54,2011,Barcelona,Xavi,España,31,Mediocampista
+55,2011,Barcelona,Seydou Keita,Senegal,31,Mediocampista
+56,2011,Barcelona,Thiago Alcántara,España,20,Mediocampista
+57,2011,Barcelona,Sergi Roberto,España,19,Mediocampista
+58,2011,Barcelona,Ibrahim Afellay,Holanda,25,Mediocampista ofensivo
+59,2011,Barcelona,Víctor Vázquez,España,24,Mediocampista ofensivo
+60,2011,Barcelona,Nolito,España,24,Extremo izquierdo
+61,2011,Barcelona,Lionel Messi,Argentina,24,Extremo derecho
+62,2011,Barcelona,Pedro,España,23,Extremo derecho
+63,2011,Barcelona,Jeffrén,Venezuela,23,Extremo derecho
+64,2011,Barcelona,Bojan Krkic,España,20,Mediocampista ofensivo
+65,2011,Barcelona,David Villa,España,29,Delantero centro
+66,2011,Barcelona,Oriol Romeu,España,19,Mediocampista defensivo
+67,2011,Manchester United,Anders Lindegaard,Dinamarca,27,Portero
+68,2011,Manchester United,Tomasz Kuszczak,Polonia,29,Portero
+69,2011,Manchester United,Edwin van der Sar,Holanda,40,Portero
+70,2011,Manchester United,Ben Amos,Inglaterra,21,Portero
+71,2011,Manchester United,Nemanja Vidic,Serbia,29,Defensa central 
+72,2011,Manchester United,Rio Ferdinand,Inglaterra,32,Defensa central 
+73,2011,Manchester United,Jonny Evans,Irlanda del norte,23,Defensa central 
+74,2011,Manchester United,John O'Shea,Irlanda,30,Defensa central 
+75,2011,Manchester United,Wes Brown,Inglaterra,31,Defensa central 
+76,2011,Manchester United,Chris Smalling,Inglaterra,21,Defensa central 
+77,2011,Manchester United,Oliver Gill,Inglaterra,20,Defensa central 
+78,2011,Manchester United,Patrice Evra,Francia,30,Lateral izquierdo
+79,2011,Manchester United,Antonio Valencia,Ecuador,25,Lateral derecho
+80,2011,Manchester United,Rafael,Brasil,20,Lateral derecho
+81,2011,Manchester United,Fábio,Brasil,20,Lateral derecho
+82,2012,Manchester United,Ritchie De Laet,Belgica,22,Lateral derecho
+83,2011,Manchester United,Gary Neville,Inglaterra,36,Lateral derecho
+84,2011,Manchester United,Michael Carrick,Inglaterra,29,Mediocampista defensivo
+85,2011,Manchester United,Owen Hargreaves,Inglaterra,30,Mediocampista defensivo
+86,2011,Manchester United,Darren Fletcher,Escocia,27,Mediocampista
+87,2011,Manchester United,Anderson,Brasil,23,Mediocampista
+88,2011,Manchester United,Paul Scholes,Inglaterra,36,Mediocampista
+89,2011,Manchester United,Darron Gibson,Irlanda,23,Mediocampista
+90,2011,Manchester United,Tom Cleverley,Inglaterra,21,Mediocampista
+91,2011,Manchester United,Corry Evans,Irlanda del norte,20,Mediocampista
+92,2011,Manchester United,Paul Pogba,Francia,18,Mediocampista
+93,2011,Manchester United,Ryan Tunnicliffe,Inglaterra,18,Mediocampista
+94,2011,Manchester United,Ryan Giggs,Gales,37,Extremo izquierdo
+95,2011,Manchester United,Robbie Brady,Irlanda,19,Extremo izquierdo
+96,2011,Manchester United,Ji-sung Park,Corea del sur,30,Mediocampista ofensivo
+97,2011,Manchester United,Magnus Wolff Eikrem,Noruega,20,Mediocampista ofensivo
+98,2011,Manchester United,Nani,Portugal,24,Extremo izquierdo
+99,2011,Manchester United,Bebé,Portugal,20,Extremo izquierdo
+100,2011,Manchester United,Joshua King,Noruega,19,Extremo izquierdo
+101,2011,Manchester United,Gabriel Obertan,Francia,22,Extremo derecho
+102,2011,Manchester United,Wayne Rooney,Inglaterra,25,Delantero centro
+103,2011,Manchester United,Dimitar Berbatov,Bulgaria,30,Delantero centro
+104,2011,Manchester United,Javier Hernández,México,23,Delantero centro
+105,2011,Manchester United,Michael Owen,Inglaterra,31,Delantero centro
+106,2011,Manchester United,Danny Welbeck,Inglaterra,20,Delantero centro
+107,2011,Manchester United,Mame Diouf,Senegal,23,Delantero centro
+108,2011,Manchester United,Federico Macheda,Italia,19,Delantero centro
+109,2012,Chelsea,Petr Cech,Republica checa,29,Portero
+110,2012,Chelsea,Ross Turnbull,Inglaterra,26,Portero
+111,2012,Chelsea,Hilario,Portugal,35,Portero
+112,2012,Chelsea,John Terry,Inglaterra,30,Defensa central 
+113,2012,Chelsea,David Luiz,Brasil,24,Defensa central 
+114,2012,Chelsea,Alex,Brasil,29,Defensa central 
+115,2012,Chelsea,Michael Mancienne,Inglaterra,23,Defensa central 
+116,2012,Chelsea,Jeffrey Bruma,Holanda,19,Defensa central 
+117,2012,Chelsea,Ashley Cole,Inglaterra,30,Lateral izquierdo
+118,2012,Chelsea,Ryan Bertrand,Inglaterra,21,Lateral izquierdo
+119,2012,Chelsea,Patrick van Aanholt,Holanda,21,Lateral izquierdo
+120,2012,Chelsea,Ivanovic,Serbia,27,Lateral derecho
+121,2012,Chelsea,Bosingwa,Portugal,28,Lateral derecho
+122,2012,Chelsea,Paulo Ferreira,Portugal,32,Lateral derecho
+123,2012,Chelsea,Michael Essien,Ghana,28,Mediocampista defensivo
+124,2012,Chelsea,John Obi Mikel,Nigeria,24,Mediocampista defensivo
+125,2012,Chelsea,Nathaniel Chalobah,Inglaterra,16,Mediocampista defensivo
+126,2012,Chelsea,Frank Lampard,Inglaterra,33,Mediocampista
+127,2012,Chelsea,Ramires,Brasil,24,Mediocampista
+128,2012,Chelsea,Josh McEachran,Inglaterra,18,Mediocampista
+129,2012,Chelsea,Jacob Mellis,Inglaterra,20,Mediocampista
+130,2012,Chelsea,Jacopo Sala,Italia,19,Mediocampista
+131,2012,Chelsea,Billy Clifford,Inglaterra,18,Mediocampista
+132,2012,Chelsea,Yuriy Zhirkov,Rusia,27,Extremo izquierdo
+133,2012,Chelsea,Gaël Kakuta ,Republica del congo,20,Mediocampista ofensivo
+134,2012,Chelsea,Florent Malouda,Francia,31,Extremo izquierdo
+135,2012,Chelsea,Salomon Kalou,Irlanda,25,Extremo izquierdo
+136,2012,Chelsea,Fabio Borini,Italia,20,Extremo izquierdo
+137,2012,Chelsea,Yossi Benayoun,Israel,31,Extremo derecho
+138,2012,Chelsea,Fernando Torres,España,27,Delantero centro
+139,2012,Chelsea,Didier Drogba,Costa de marfil,33,Delantero centro
+140,2012,Chelsea,Nicolas Anelka,Francia,32,Delantero centro
+141,2012,Chelsea,Daniel Sturridge,Inglaterra,21,Delantero centro
+142,2012,Bayern Múnich,Manuel Neuer,Alemania,26,Portero
+143,2012,Bayern Múnich,Hans-Jörg Butt,Alemania,38,Portero
+144,2012,Bayern Múnich,Maximiliam Riedmüller,Alemania,24,Portero
+145,2012,Bayern Múnich,Rouven Sattelmaier,Alemania,24,Portero
+146,2012,Bayern Múnich,Holger Badstuber,Alemania,23,Defensa central 
+147,2012,Bayern Múnich,David Alaba,Austria,20,Defensa central 
+148,2012,Bayern Múnich,Jérôme Boateng,Alemania,23,Defensa central 
+149,2012,Bayern Múnich,Daniel Van Buyten,Bulgaria,34,Defensa central 
+150,2012,Bayern Múnich,Breno,Brasil,22,Defensa central 
+151,2012,Bayern Múnich,Danijel Pranji,Croacia,30,Lateral izquierdo
+152,2012,Bayern Múnich,Diego Contento,Alemania,22,Lateral izquierdo
+153,2012,Bayern Múnich,Philipp Lahm,Alemania,28,Lateral derecho
+154,2012,Bayern Múnich,Rafinha,Brasil,26,Lateral Derecho
+155,2012,Bayern Múnich,Luis Gustavo,Brasil,24,Mediocampista defensivo
+156,2012,Bayern Múnich,Anatoliy Tymoshchuk,Ucrania,33,Mediocampista defensivo
+157,2012,Bayern Múnich,Emre Can,Alemania,18,Mediocampista defensivo
+158,2012,Bayern Múnich,Bastian Schweinsteiger,Alemania,27,Mediocentro
+159,2012,Bayern Múnich,Toni Kroos,Alemania,22,Mediocentro
+160,2012,Bayern Múnich,Franck Ribéry,Francia,29,Extremo izquierdo
+161,2012,Bayern Múnich,Arjen Robben,Holanda,28,Extremo derecho
+162,2012,Bayern Múnich,Thomas Müller,Alemania,22,Mediocampista ofensivo
+163,2012,Bayern Múnich,Mario Gómez,Alemania,26,Delantero centro
+164,2012,Bayern Múnich,Ivica Oli,Croacia,32,Delantero centro
+165,2012,Bayern Múnich,Nils Petersen,Alemania,23,Delantero centro
+166,2012,Bayern Múnich,Takashi Usami,Japón,20,Delantero centro
+167,2013,Borussia Dortmund,Roman Weindenfeller,Alemania,32,Portero
+168,2013,Borussia Dortmund,Mitchell Langerak,Australia,24,Portero
+169,2013,Borussia Dortmund,Zlatan Alomerovic,Serbia,22,Portero
+170,2013,Borussia Dortmund,Mats Hummels,Alemania,24,Defensa central 
+171,2013,Borussia Dortmund,Neven Subotic,Serbia,24,Defensa central 
+172,2013,Borussia Dortmund,Felipe Santana,Brasil,27,Defensa central 
+173,2013,Borussia Dortmund,Koray Günter,Alemania,18,Defensa central 
+174,2013,Borussia Dortmund,Marcel Halstenberg,Alemania,21,Defensa central 
+175,2013,Borussia Dortmund,Marc Hornschuh,Alemania,22,Defensa central 
+176,2013,Borussia Dortmund,Marcel Schmelzer,Alemania,25,Lateral izquierdo
+177,2013,Borussia Dortmund,Chris Löwe,Alemania,24,Lateral izquierdo
+178,2013,Borussia Dortmund,Lukasz Piszczek,Polonia,28,Lateral derecho
+179,2013,Borussia Dortmund,Kevin Großkreutz,Alemania,24,Lateral derecho
+180,2013,Borussia Dortmund,Patrick Owomoyela,Alemania,33,Lateral derecho
+181,2013,Borussia Dortmund,Sven Bender,Alemania,24,Mediocampista defensivo
+182,2013,Borussia Dortmund,Nuri ?ahin,Turquía,24,Mediocampista defensivo
+183,2013,Borussia Dortmund,Sebastian Kehl,Alemania,33,Mediocampista defensivo
+184,2013,Borussia Dortmund,Oliver Kirch,Alemania,30,Mediocampista defensivo
+185,2013,Borussia Dortmund,Marvin Bakalorz,Alemania,23,Mediocampista defensivo
+186,2013,Borussia Dortmund,Ilkay Gündo?an,Alemania,22,Mediocentro
+187,2013,Borussia Dortmund,Moritz Leitner,Alemania,20,Mediocentro
+188,2013,Borussia Dortmund,Leonardo Bittencourt,Alemania,19,Mediocentro
+189,2013,Borussia Dortmund,Mustafa Amini,Australia,20,Mediocentro
+190,2013,Borussia Dortmund,Mario Götze,Alemania,21,Mediocampista ofensivo
+191,2013,Borussia Dortmund,Marco Reus,Alemania,24,Mediocampista ofensivo
+192,2013,Borussia Dortmund,Jonas Hofmann,Alemania,20,mediocampista ofensivo
+193,2013,Borussia Dortmund,Ivan Perisic,Croacia,24,Extremo izquierdo
+194,2013,Borussia Dortmund,Jakub Blaszczykowski,Polonia,27,Extremo izquierdo
+195,2013,Borussia Dortmund,Robert Lewandowski,Polonia,24,Delantero centro
+196,2013,Borussia Dortmund,Julian Schieber,Alemania,24,Delantero centro
+197,2013,Borussia Dortmund,Bálint Bajner,Hungría,22,Delantero centro
+198,2013,Bayern Múnich,Manuel Neuer,Alemania,27,Portero
+199,2013,Bayern Múnich,Tom Starke,Alemania,32,Portero
+200,2013,Bayern Múnich,Lukas Raeder,Alemania,19,Portero
+201,2013,Bayern Múnich,Maximiliam Riedmüller,Alemania,25,Portero
+202,2013,Bayern Múnich,David Alaba,Austria,21,Defensa central 
+203,2013,Bayern Múnich,Jérôme Boateng,Alemania,24,Defensa central 
+204,2013,Bayern Múnich,Dante,Brasil,29,Defensa central 
+205,2013,Bayern Múnich,Holger Badstuber,Alemania,24,Defensa central 
+206,2013,Bayern Múnich,Daniel Van Buyten,Belgica,35,Defensa central 
+207,2013,Bayern Múnich,Diego Contento,Alemania,23,Lateral izquierdo
+208,2013,Bayern Múnich,Philipp Lahm,Alemania,29,Lateral derecho
+209,2013,Bayern Múnich,Rafinha,Brasil,27,Lateral derecho
+210,2013,Bayern Múnich,Mitchell Weiser,Alemania,19,Lateral derecho
+211,2013,Bayern Múnich,Vladimir Rankovic,Alemania,20,Lateral derecho
+212,2013,Bayern Múnich,Javi Martínez,España,24,Mediocampista defensivo
+213,2013,Bayern Múnich,Luiz Gustavo,Brasil,25,Mediocampista defensivo
+214,2013,Bayern Múnich,Anatoliy Tymoshchuk,Ucrania,34,Mediocampista defensivo
+215,2013,Bayern Múnich,Emre Can,Alemania,19,Mediocampista defensivo
+216,2013,Bayern Múnich,Pierre-Emile Højbjerg,Dinamarca,17,Mediocampista defensivo
+217,2013,Bayern Múnich,Bastian Schweinsteiger,Alemania,28,Mediocampista
+218,2013,Bayern Múnich,Toni Kroos,Alemania,23,Mediocampista
+219,2013,Bayern Múnich,Xherdan Shaqiri,Suiza,21,Mediocampista ofensivo
+220,2013,Bayern Múnich,Patrick Weihrauch,Alemania,19,Mediocampista ofensivo
+221,2013,Bayern Múnich,Franck Ribéry,Francia,30,Extremo izquierdo
+222,2013,Bayern Múnich,Arjen Robben,Holanda,29,Extremo derecho
+223,2013,Bayern Múnich,Thomas Müller,Alemania,23,Mediocampista ofensivo
+224,2013,Bayern Múnich,Mario Gómez,Alemania,27,Delantero centro
+225,2013,Bayern Múnich,Mario Manduki?,Croacia,27,Delantero centro
+226,2013,Bayern Múnich,Claudio Pizarro,Perú,34,Delantero centro
+227,2014,Real Madrid,Iker Casillas,España,33,Portero
+228,2014,Real Madrid,Diego Lopez,España,32,Portero
+229,2014,Real Madrid,Jesús Fernández,España,26,Portero
+230,2014,Real Madrid,Sergio Ramos,España,28,Defensa central 
+231,2014,Real Madrid,Raphaël Varane ,Francia,21,Defensa central 
+232,2014,Real Madrid,Pepe,Portugal,31,Defensa central 
+233,2014,Real Madrid,Nacho Fernández,España,24,Defensa central 
+234,2014,Real Madrid,Diego Llorente,España,20,Defensa central 
+235,2014,Real Madrid,Marcelo,Brasil,26,Lateral izquierdo
+236,2014,Real Madrid,Fábio Coentrão,Portugal,26,Lateral izquierdo
+237,2014,Real Madrid,Daniel Carvajal,España,22,Lateral derecho
+238,2014,Real Madrid,Álvaro Arbeloa,España,31,Lateral derecho
+239,2014,Real Madrid,Lucas Vázquez,España,22,Lateral derecho
+240,2014,Real Madrid,Asier Illaramendi,España,24,Mediocampista defensivo
+241,2014,Real Madrid,Xabi Alonso,España,32,Mediocampista defensivo
+242,2014,Real Madrid,Casemiro,Brasil,22,Mediocampista defensivo
+243,2014,Real Madrid,Omar Mascarell,Guinea ecuatorial,21,Mediocampista defensivo
+244,2014,Real Madrid,Luka Modric,Croacia,28,Mediocampista
+245,2014,Real Madrid,Sami Khedira,Alemania,27,Mediocampista
+246,2014,Real Madrid,José Rodríguez,España,19,Mediocampista
+247,2014,Real Madrid,Isco,España,22,Mediocampista ofensivo
+248,2014,Real Madrid,Jesé Rodríguez,España,21,Extremo izquierdo
+249,2014,Real Madrid,Burgui,España,20,Extremo izquierdo
+250,2014,Real Madrid,Gareth Bale,Gales,24,Extremo derecho
+251,2014,Real Madrid,Ángel Di María,Argentina,26,Extremo derecho
+252,2014,Real Madrid,Cristiano Ronaldo,Portugal,29,Extremo izquierdo
+253,2014,Real Madrid,Karim Benzema,Francia,26,Delantero centro
+254,2014,Real Madrid,Álvaro Morata,España,21,Delantero centro
+255,2014,Real Madrid,Willian José,Brasil,22,Delantero centro
+256,2014,Real Madrid,Raúl De Tomás,España,19,Delantero centro
+257,2014,Atletico de Madrid,Thibaut Courtois,Belgica,22,Portero
+258,2014,Atletico de Madrid,Daniel Aranzubia,España,34,Portero
+259,2014,Atletico de Madrid,Bono,Marruecos,23,Portero
+260,2014,Atletico de Madrid,David Gil,España,20,Portero
+261,2014,Atletico de Madrid,Diego Godín,Uruguay,28,Defensa central 
+262,2014,Atletico de Madrid,Miranda,Brasil,29,Defensa central 
+263,2014,Atletico de Madrid,Toby Alderweireld,Belgica,25,Defensa central 
+264,2014,Atletico de Madrid,Martín Demichelis,Argentina,33,Defensa central 
+265,2014,Atletico de Madrid,José María Giménez,Uruguay,19,Defensa central 
+266,2014,Atletico de Madrid,Filipe Luís,Brasil,28,Lateral izquierdo
+267,2014,Atletico de Madrid,Emiliano Insúa,Argentina,25,Lateral izquierdo
+268,2014,Atletico de Madrid,Lucas Hernández,Francia,18,Defensa central 
+269,2014,Atletico de Madrid,Juanfran Torres,España,29,Lateral derecho
+270,2014,Atletico de Madrid,Javier Manquillo,España,20,Lateral derecho
+271,2014,Atletico de Madrid,Mario Suárez,España,27,Mediocampista defensivo
+272,2014,Atletico de Madrid,Josuha Guilavogui,Francia,23,Mediocampista defensivo
+273,2014,Atletico de Madrid,Koké,España,22,Mediocampista
+274,2014,Atletico de Madrid,Gabi,España,30,Mediocampista
+275,2014,Atletico de Madrid,Óliver Torres,España,19,Mediocampista
+276,2014,Atletico de Madrid,Tiago Mendes,Portugal,33,Mediocampista
+277,2014,Atletico de Madrid,Carlos Ramos,España,19,Mediocampista
+278,2014,Atletico de Madrid,Cristian Rodríguez,Uruguay,28,Mediocampista
+279,2014,Atletico de Madrid,Diego,Brasil,29,Mediocampista ofensivo
+280,2014,Atletico de Madrid,José Sosa,Argentina,29,Mediocampista ofensivo
+281,2014,Atletico de Madrid,Samu Saiz,España,23,Mediocampista ofensivo
+282,2014,Atletico de Madrid,Arda Turan,Turquía,27,Extremo izquierdo
+283,2014,Atletico de Madrid,Momar Ndoye,Senegal,22,Extremo izquierdo
+284,2014,Atletico de Madrid,Diego Costa,España,25,Delantero centro
+285,2014,Atletico de Madrid,Raúl García ,España,27,Delantero centro
+286,2014,Atletico de Madrid,David Villa,España,32,Delantero centro
+287,2014,Atletico de Madrid,Adrián López,España,26,Delantero centro
+288,2014,Atletico de Madrid,Léo Baptistão,Brasil,21,Delantero centro
+289,2014,Atletico de Madrid,Rubén Mesa,España,22,Delantero centro
+290,2014,Atletico de Madrid,Héctor Hernández,España,18,Delantero centro
+291,2015,Barcelona,Marc-André Ter Stegen,Alemania,23,Portero
+292,2015,Barcelona,Claudio Bravo,Chile,32,Portero
+293,2015,Barcelona,Jordi Masip,España,26,Portero
+294,2015,Barcelona,Gerard Piqué,España,28,Defensa central 
+295,2015,Barcelona,Marc Bartra,España,24,Defensa central 
+296,2015,Barcelona,Thomas Vermaelen,Belgica,29,Defensa central 
+297,2015,Barcelona,Edgar Ié,Guinea-bissau,21,Defensa central 
+298,2015,Barcelona,Jordi Alba,España,26,Lateral izquierdo
+299,2015,Barcelona,Jérémy Mathieu,Francia,31,Lateral izquierdo
+300,2015,Barcelona,Adriano,Brasil,30,Lateral izquierdo
+301,2015,Barcelona,Martín Montoya,España,24,Lateral derecho
+302,2015,Barcelona,Dani Alves,Brasil,32,Lateral derecho
+303,2015,Barcelona,Douglas,Brasil,24,Lateral derecho
+304,2015,Barcelona,Sergio Busquets,España,26,Mediocampista defensivo
+305,2015,Barcelona,Javier Mascherano,Argentina,31,Mediocampista defensivo
+306,2015,Barcelona,Sergi Samper,España,20,Mediocampista defensivo
+307,2015,Barcelona,Diawandou Diagne,Senegal,20,Mediocampista defensivo
+308,2015,Barcelona,Gerard Gumbau,España,20,Mediocampista defensivo
+309,2015,Barcelona,Andrés Iniesta,España,31,Mediocampista
+310,2015,Barcelona,Ivan Rakitic,Croacia,27,Mediocampista
+311,2015,Barcelona,Sergi Roberto,España,23,Mediocampista
+312,2015,Barcelona,Xavi,España,35,Mediocampista
+313,2015,Barcelona,Rafinha,Brasil,22,Mediocampista ofensivo
+314,2015,Barcelona,Alen Halilovic,Croacia,19,Mediocampista ofensivo
+315,2015,Barcelona,Neymar,Brasil,23,Extremo izquierdo
+316,2015,Barcelona,Lionel Messi,Argentina,28,Extremo derecho
+317,2015,Barcelona,Pedro,España,27,Extremo derecho
+318,2015,Barcelona,Munir El Haddadi,Marruecos,19,Extremo derecho
+319,2015,Barcelona,Adama Traoré,España,19,Extremo derecho
+320,2015,Barcelona,Luis Suárez,Uruguay,28,Delantero centro
+321,2015,Barcelona,Sandro Ramírez,España,19,Delantero centro
+322,2015,Juventus,Gianluigi Buffon ,Italia,37,Portero
+323,2015,Juventus,Marco Storari,Italia,38,Portero
+324,2015,Juventus,Emil Audero,Italia,18,Portero
+325,2015,Juventus,Rubinho,Brasil,32,Portero
+326,2015,Juventus,Giacomo Volpe,Italia,19,Portero
+327,2015,Juventus,Mattia Del Favero,Italia,17,Portero
+328,2015,Juventus,Leonardo Bonucci,Italia,28,Defensa central 
+329,2015,Juventus,Giorgio Chiellini,Italia,30,Defensa central 
+330,2015,Juventus,Angelo Ogbonna,Italia,27,Defensa central 
+331,2015,Juventus,Martín Cáceres,Uruguay,28,Defensa central 
+332,2015,Juventus,Luca Marrone,Italia,25,Defensa central 
+333,2015,Juventus,Andrea Barzagli,Italia,34,Defensa central 
+334,2015,Juventus,Filippo Romagna,Italia,18,Defensa central 
+335,2015,Juventus,Patrice Evra,Francia,34,Lateral izquierdo
+336,2015,Juventus,Paolo De Ceglie,Italia,28,Lateral izquierdo
+337,2015,Juventus,Stephan Lichtsteiner,Suiza,31,Lateral derecho
+338,2015,Juventus,Marco Motta,Italia,29,Lateral derecho
+339,2015,Juventus,Federico Mattiello,Italia,19,Lateral derecho
+340,2015,Juventus,Andrea Pirlo,Italia,36,Mediocampista defensivo
+341,2015,Juventus,Paul Pogba,Francia,22,Mediocampista
+342,2015,Juventus,Arturo Vidal,Chile,28,Mediocampista
+343,2015,Juventus,Claudio Marchisio,Italia,29,Mediocampista
+344,2015,Juventus,Roberto Pereyra,Argentina,24,Mediocampista
+345,2015,Juventus,Rômulo,Italia,28,Mediocampista
+346,2015,Juventus,Stefano Sturaro,Italia,22,Mediocampista
+347,2015,Juventus,Simone Padoin,Italia,31,Mediocampista
+348,2015,Juventus,Mattia Vitale,Italia,17,Mediocampista
+349,2015,Juventus,Kwadwo Asamoah,Ghana,26,Mediocampista
+350,2015,Juventus,Kingsley Coman,Francia,19,Extremo izquierdo
+351,2015,Juventus,Simone Pepe,Italia,31,Extremo derecho
+352,2015,Juventus,Sebastian Giovinco,Italia,28,Mediocampista ofensivo
+353,2015,Juventus,Carlos Tevez,Argentina,31,Delantero centro
+354,2015,Juventus,Álvaro Morata,España,22,Delantero centro
+355,2015,Juventus,Fernando Llorente,España,30,Delantero centro
+356,2015,Juventus,Alessandro Matri,Italia,30,Delantero centro
+357,2016,Real Madrid,Keylor Navas,Costa rica,29,Portero
+358,2016,Real Madrid,Kiko Casilla,España,29,Portero
+359,2016,Real Madrid,Rubén Yáñez,España,22,Portero
+360,2016,Real Madrid,Álex Craninx,Belgica,20,Portero
+361,2016,Real Madrid,Sergio Ramos,España,30,Defensa central 
+362,2016,Real Madrid,Raphaël Varane ,Francia,23,Defensa central 
+363,2016,Real Madrid,Danilo,Brasil,24,Lateral derecho
+364,2016,Real Madrid,Pepe,Portugal,33,Defensa central 
+365,2016,Real Madrid,Nacho Fernández,España,26,Defensa central 
+366,2016,Real Madrid,Philipp Lienhart,Austria,19,Defensa central 
+367,2016,Real Madrid,Marcelo,Brasil,28,Lateral Izquierdo
+368,2016,Real Madrid,Daniel Carvajal,España,24,Lateral derecho
+369,2016,Real Madrid,Lucas Vázquez,España,24,Lateral derecho
+370,2016,Real Madrid,Álvaro Arbeloa,España,33,Lateral derecho
+371,2016,Real Madrid,Álvaro Tejero,España,19,Lateral derecho
+372,2016,Real Madrid,Casemiro,Brasil,24,Mediocampista defensivo
+373,2016,Real Madrid,Toni Kroos,Alemania,26,Mediocampista
+374,2016,Real Madrid,Luka Modric,Croacia,30,Mediocampista
+375,2016,Real Madrid,Mateo Kovacic,Croacia,22,Mediocampista
+376,2016,Real Madrid,Marcos Llorente,España,21,Mediocampista defensivo
+377,2016,Real Madrid,James Rodríguez,Colombia,24,Mediocampista ofensivo
+378,2016,Real Madrid,Isco,España,24,Mediocampista ofensivo
+379,2016,Real Madrid,Martin Ødegaard,Noruega,17,Mediocampista ofensivo
+380,2016,Real Madrid,Jesé Rodríguez,España,23,Extremo izquierdo
+381,2016,Real Madrid,Denis Cheryshev,Rusia,25,Extremo izquierdo
+382,2016,Real Madrid,José Carlos Lazo,España,20,Extremo izquierdo
+383,2016,Real Madrid,Gareth Bale,Gales,26,Extremo derecho
+384,2016,Real Madrid,Cristiano Ronaldo,Portugal,31,Extremo izquierdo
+385,2016,Real Madrid,Karim Benzema,Francia,28,Delantero centro
+386,2016,Real Madrid,Borja Mayoral,España,19,Delantero centro
+387,2016,Atletico de Madrid,Jan Oblak,Eslovenia,23,Portero
+388,2016,Atletico de Madrid,Miguel Ángel Moyá,España,32,Portero
+389,2016,Atletico de Madrid,Diego Godín,Uruguay,30,Defensa central 
+390,2016,Atletico de Madrid,José María Giménez,Uruguay,21,Defensa central 
+391,2016,Atletico de Madrid,Stefan Savic,Montenegro,25,Defensa central 
+392,2016,Atletico de Madrid,Nacho Monsalve,España,22,Defensa central 
+393,2016,Atletico de Madrid,Filipe Luís,Brasil,30,Lateral izquierdo
+394,2016,Atletico de Madrid,Lucas Hernández,Francia,20,Defensa central 
+395,2016,Atletico de Madrid,Guilherme Siqueira,Brasil,30,Lateral izquierdo
+396,2016,Atletico de Madrid,Theo Hernández,Francia,18,Lateral izquierdo
+397,2016,Atletico de Madrid,Juanfran Torres,España,31,Lateral derecho
+398,2016,Atletico de Madrid,Jesús Gámez,España,31,Lateral derecho
+399,2016,Atletico de Madrid,Borja González,España,20,Lateral derecho
+400,2016,Atletico de Madrid,Matías Kravenitter,Argentino,23,Mediocampista defensivo
+401,2016,Atletico de Madrid,Thomas Partey,Ghana ,23,Mediocampista defensivo
+402,2016,Atletico de Madrid,Koké,España,24,Mediocampista
+403,2016,Atletico de Madrid,Saúl Ñíguez,España,21,Mediocampista
+404,2016,Atletico de Madrid,Óliver Torres,España,21,Mediocampista
+405,2016,Atletico de Madrid,Gabi,España,32,Mediocampista
+406,2016,Atletico de Madrid,Augusto Fernández,Argentina,30,Mediocampista
+407,2016,Atletico de Madrid,Tiago Mendes,Portugal,35,Mediocampista
+408,2016,Atletico de Madrid,Yannick Carrasco,Belgica,22,Extremo izquierdo
+409,2016,Atletico de Madrid,Samuel Villa,España,21,Extremo izquierdo
+410,2016,Atletico de Madrid,Ángel Correa,Argentina,21,Delantero centro
+411,2016,Atletico de Madrid,Antoine Griezmann,Francia,25,Delantero centro
+412,2016,Atletico de Madrid,Luciano Vietto,Argentina,22,Delantero centro
+413,2016,Atletico de Madrid,Jackson Martínez,Colombia,29,Delantero centro
+414,2016,Atletico de Madrid,Raúl García ,España,29,Delantero centro
+415,2016,Atletico de Madrid,Fernando Torres,España,32,Delantero centro
+416,2016,Atletico de Madrid,Roberto Núñez,España,20,Delantero centro
+417,2017,Real Madrid,Keylor Navas,Costa rica,30,Portero
+418,2017,Real Madrid,Kiko Casilla,España,30,Portero
+419,2017,Real Madrid,Rubén Yáñez,España,23,Portero
+420,2017,Real Madrid,Sergio Ramos,España,31,Defensa central 
+421,2017,Real Madrid,Raphaël Varane ,Francia,24,Defensa central 
+422,2017,Real Madrid,Danilo,Brasil,25,Lateral derecho
+423,2017,Real Madrid,Pepe,Portugal,34,Defensa central 
+424,2017,Real Madrid,Nacho Fernández,España,27,Defensa central 
+425,2017,Real Madrid,Marcelo,Brasil,29,Lateral izquierdo
+426,2017,Real Madrid,Fabio Coentrão,Portugal,29,Lateral izquierdo
+427,2017,Real Madrid,Daniel Carvajal,España,25,Lateral derecho
+428,2017,Real Madrid,Lucas Vázquez,España,25,Lateral derecho
+429,2017,Real Madrid,Achraf Hakimi,Marruecos,18,Lateral derecho
+430,2017,Real Madrid,Álvaro Tejero,España,20,Lateral derecho
+431,2017,Real Madrid,Casemiro,Brasil,25,Mediocampista defensivo
+432,2017,Real Madrid,Toni Kroos,Alemania,27,Mediocampista
+433,2017,Real Madrid,Luka Modric,Croacia,31,Mediocampista
+434,2017,Real Madrid,Mateo Kovacic,Croacia,23,Mediocampista
+435,2017,Real Madrid,Marcos Llorente,España,22,Mediocampista defensivo
+436,2017,Real Madrid,James Rodríguez,Colombia,25,Mediocampista ofensivo
+437,2017,Real Madrid,Isco,España,25,Mediocampista ofensivo
+438,2017,Real Madrid,Martin Ødegaard,Noruega,18,Mediocampista ofensivo
+439,2017,Real Madrid,Enzo Zidane,Francia,22,Mediocampista ofensivo
+440,2017,Real Madrid,Marco Asensio,España,21,Extremo izquierdo
+441,2017,Real Madrid,Mariano Díaz,Republica dominicana,23,Delantero centro
+442,2017,Real Madrid,Gareth Bale,Gales,27,Extremo derecho
+443,2017,Real Madrid,Cristiano Ronaldo,Portugal,32,Extremo izquierdo
+444,2017,Real Madrid,Karim Benzema,Francia,29,Delantero centro
+445,2017,Real Madrid,Álvaro Morata,España,24,Delantero centro
+446,2017,Juventus,Neto,Brasil,27,Portero
+447,2017,Juventus,Gianluigi Buffon ,Italia,39,Portero
+448,2017,Juventus,Emil Audero,Italia,20,Portero
+449,2017,Juventus,Mattia Del Favero,Italia,19,Portero
+450,2017,Juventus,Leonardo Loria,Italia,18,Portero
+451,2017,Juventus,Leonardo Bonucci,Italia,30,Defensa central 
+452,2017,Juventus,Daniele Rugani,Italia,22,Defensa central 
+453,2017,Juventus,Medhi Benatia,Marruecos,30,Defensa central 
+454,2017,Juventus,Giorgio Chiellini,Italia,32,Defensa central 
+455,2017,Juventus,Luca Marrone,Italia,27,Defensa central 
+456,2017,Juventus,Andrea Barzagli,Italia,36,Defensa central 
+457,2017,Juventus,Luca Coccolo,Italia,19,Defensa central 
+458,2017,Juventus,Mattias Andersson,Suecia,19,Defensa central 
+459,2017,Juventus,Alex Sandro,Brasil,26,Lateral izquierdo
+460,2017,Juventus,Patrice Evra,Francia,36,Lateral izquierdo
+461,2017,Juventus,Paolo De Ceglie,Italia,30,Lateral izquierdo
+462,2017,Juventus,Dani Alves,Brasil,34,Lateral derecho
+463,2017,Juventus,Stephan Lichtsteiner,Suiza,33,Lateral derecho
+464,2017,Juventus,Federico Mattiello,Italia,21,Lateral derecho
+465,2017,Juventus,Alessandro Semprini,Italia,22,Lateral derecho
+466,2017,Juventus,Tomás Rincón,Venezuela,29,Mediocampista defensivo
+467,2017,Juventus,Mario Lemina,Gabón,23,Mediocampista defensivo
+468,2017,Juventus,Rolando Mandragora,Italia,20,Mediocampista defensivo
+469,2017,Juventus,Miralem Pjanic,Bosnia,27,Mediocampista
+470,2017,Juventus,Sami Khedira,Alemania,30,Mediocampista
+471,2017,Juventus,Claudio Marchisio,Italia,31,Mediocampista
+472,2017,Juventus,Stefano Sturaro,Italia,24,Mediocampista
+473,2017,Juventus,Simone Muratore,Italia,19,Mediocampista
+474,2017,Juventus,Juan Cuadrado,Colombia,29,Extremo derecho
+475,2017,Juventus,Kwadwo Asamoah,Ghana,28,Extremo izquierdo
+476,2017,Juventus,Hernanes,Brasil,32,Mediocampista ofensivo
+477,2017,Juventus,Marko Pjaca,Croacia,22,Extremo izquierdo
+478,2017,Juventus,Mehdi Léris,Argelia,19,Extremo derecho
+479,2017,Juventus,Paulo Dybala,Argentina,23,Mediocampista ofensivo
+480,2017,Juventus,Gonzalo Higuaín ,Argentina,29,Delantero centro
+481,2017,Juventus,Mario Manduki?,Croacia,31,Delantero centro
+482,2017,Juventus,Simone Zaza,Italia,26,Delantero centro
+483,2017,Juventus,Moise Kean,Italia,17,Delantero centro
+484,2018,Real Madrid,Keylor Navas,Costa rica,31,Portero
+485,2018,Real Madrid,Kiko Casilla,España,31,Portero
+486,2018,Real Madrid,Moha Ramos,España,18,Portero
+487,2018,Real Madrid,Luca Zidane,Francia,20,Portero
+488,2018,Real Madrid,Sergio Ramos,España,32,Defensa central 
+489,2018,Real Madrid,Raphaël Varane ,Francia,25,Defensa central 
+490,2018,Real Madrid,Theo Hernández,Francia,20,Lateral izquierdo
+491,2018,Real Madrid,Jesús Vallejo,España,21,Defensa central 
+492,2018,Real Madrid,Nacho Fernández,España,28,Defensa central 
+493,2018,Real Madrid,Marcelo,Brasil,30,Lateral izquierdo
+494,2018,Real Madrid,Luismi Quezada,Republica dominicana,22,Lateral izquierdo
+495,2018,Real Madrid,Daniel Carvajal,España,26,Lateral derecho
+496,2018,Real Madrid,Lucas Vázquez,España,26,Lateral derecho
+497,2018,Real Madrid,Achraf Hakimi,Marruecos,19,Lateral derecho
+498,2018,Real Madrid,Álvaro Tejero,España,21,Lateral derecho
+499,2018,Real Madrid,Casemiro,Brasil,26,Mediocampista defensivo
+500,2018,Real Madrid,Toni Kroos,Alemania,28,Mediocampista
+501,2018,Real Madrid,Luka Modric,Croacia,32,Mediocampista
+502,2018,Real Madrid,Mateo Kovacic,Croacia,24,Mediocampista
+503,2018,Real Madrid,Marcos Llorente,España,23,Mediocampista defensivo
+504,2018,Real Madrid,Oscar Rodríguez,España,20,Mediocampista ofensivo
+505,2018,Real Madrid,Isco,España,26,Mediocampista ofensivo
+506,2018,Real Madrid,Dani Ceballos,España,21,Mediocampista
+507,2018,Real Madrid,Franchu,Argentina,20,Extremo derecho
+508,2018,Real Madrid,Marco Asensio,España,22,Extremo izquierdo
+509,2018,Real Madrid,Cristo,España,20,Mediocampista ofensivo
+510,2018,Real Madrid,Gareth Bale,Gales,28,Extremo derecho
+511,2018,Real Madrid,Cristiano Ronaldo,Portugal,33,Extremo izquierdo
+512,2018,Real Madrid,Karim Benzema,Francia,30,Delantero centro
+513,2018,Real Madrid,Borja Mayoral,España,21,Delantero centro
+514,2018,Liverpool,Loris Karius,Alemania,25,Portero
+515,2018,Liverpool,Simon Mignolet,Belgica,30,Portero
+516,2018,Liverpool,Danny Ward,Gales,25,Portero
+517,2018,Liverpool,Ádám Bogdá,Hungría,30,Portero
+518,2018,Liverpool,Virgil Van Dijk,Holanda,26,Defensa central 
+519,2018,Liverpool,Joel Matip,Camerún ,26,Defensa central 
+520,2018,Liverpool,Joe Gomez,Inglaterra,21,Defensa central 
+521,2018,Liverpool,Dejan Lovren,Croacia,28,Defensa central 
+522,2018,Liverpool,Ragnar Klavan,Estonia,32,Defensa central 
+523,2018,Liverpool,Andrew Robertson,Escocia,24,Lateral izquierdo
+524,2018,Liverpool,Alberto Moreno,España,25,Lateral izquierdo
+525,2018,Liverpool,Trent Alexander-Arnold,Inglaterra,19,Lateral derecho
+526,2018,Liverpool,Nathaniel Clyne,Inglaterra,27,Lateral derecho
+527,2018,Liverpool,Jon Flanagan,Inglaterra,25,Lateral derecho
+528,2018,Liverpool,Connor Randall,Inglaterra,22,Lateral derecho
+529,2018,Liverpool,Emre Can,Alemania,24,Mediocampista defensivo
+530,2018,Liverpool,Alex Oxlade-Chamberlain,Inglaterra,24,Mediocampista
+531,2018,Liverpool,Georginio Wijnaldum,Holanda,27,Mediocampista
+532,2018,Liverpool,Jordan Henderson,Inglaterra,28,Mediocampista
+533,2018,Liverpool,James Milner,Inglaterra,32,Mediocampista
+534,2018,Liverpool,Adam Lallana,Inglaterra,30,Mediocampista ofensivo
+535,2018,Liverpool,Ben Woodburn,Gales,18,Mediocampista ofensivo
+536,2018,Liverpool,Sadio Mané,Senegal,26,Extremo izquierdo
+537,2018,Liverpool,Mohamed Salah,Egipto,26,Extremo derecho
+538,2018,Liverpool,Sheyi Ojo,Inglaterra,21,Extremo derecho
+539,2018,Liverpool,Roberto Firmino,Brasil,26,Delantero centro
+540,2018,Liverpool,Daniel Sturridge,Inglaterra,28,Delantero centro
+541,2018,Liverpool,Divock Origi,Belgica,23,Delantero centro
+542,2018,Liverpool,Dominic Solanke,Inglaterra,20,Delantero centro
+543,2018,Liverpool,Danny Ings,Inglaterra,25,Delantero centro
+544,2019,Liverpool,Alisson,Brasil,26,Portero
+545,2019,Liverpool,Loris Karius,Alemania,26,Portero
+546,2019,Liverpool,Simon Mignolet,Belgica,31,Portero
+547,2019,Liverpool,Kamil Grabara,Polonia,20,Portero
+548,2019,Liverpool,Ádám Bogdá,Hungría,31,Portero
+549,2019,Liverpool,Virgil Van Dijk,Holanda,27,Defensa central 
+550,2019,Liverpool,Joel Matip,Camerún ,27,Defensa central 
+551,2019,Liverpool,Joe Gomez,Inglaterra,22,Defensa central 
+552,2019,Liverpool,Dejan Lovren,Croacia,29,Defensa central 
+553,2019,Liverpool,Andrew Robertson,Escocia,25,Lateral izquierdo
+554,2019,Liverpool,Alberto Moreno,España,26,Lateral izquierdo
+555,2019,Liverpool,Trent Alexander-Arnold,Inglaterra,20,Lateral derecho
+556,2019,Liverpool,Nathaniel Clyne,Inglaterra,28,Lateral derecho
+557,2019,Liverpool,Ki-Jana Hoever,Holanda,17,Lateral derecho
+558,2019,Liverpool,Connor Randall,Inglaterra,23,Lateral derecho
+559,2019,Liverpool,Fabinho,Brasil,25,Mediocampista defensivo
+560,2019,Liverpool,Alex Oxlade-Chamberlain,Inglaterra,25,Mediocampista
+561,2019,Liverpool,Georginio Wijnaldum,Holanda,28,Mediocampista
+562,2019,Liverpool,Jordan Henderson,Inglaterra,29,Mediocampista
+563,2019,Liverpool,James Milner,Inglaterra,33,Mediocampista
+564,2019,Liverpool,Adam Lallana,Inglaterra,31,Mediocampista ofensivo
+565,2019,Liverpool,Marko Grujic,Serbia,23,Mediocampista defensivo
+566,2019,Liverpool,Naby Keïta ,Guinea,24,Mediocampista
+567,2019,Liverpool,Ben Woodburn,Gales,19,Mediocampista ofensivo
+568,2019,Liverpool,Curtis Jones,Inglaterra,18,Mediocampista
+569,2019,Liverpool,Xherdan Shaqiri,Suiza,27,Extremo derecho
+570,2019,Liverpool,Isaac Christie-Davies,Gales,21,Mediocampista ofensivo
+571,2019,Liverpool,Sadio Mané,Senegal,27,Extremo izquierdo
+572,2019,Liverpool,Mohamed Salah,Egipto,27,Extremo derecho
+573,2019,Liverpool,Sheyi Ojo,Inglaterra,22,Extremo derecho
+574,2019,Liverpool,Roberto Firmino,Brasil,27,Delantero centro
+575,2019,Liverpool,Rafael Camacho,Portugal,19,Extremo derecho
+576,2019,Liverpool,Divock Origi,Belgica,23,Delantero centro
+577,2019,Liverpool,Dominic Solanke,Inglaterra,20,Delantero centro
+578,2019,Liverpool,Danny Ings,Inglaterra,25,Delantero centro
+579,2019,Liverpool,Ryan Brewster,Inglaterra,19,Delantero centro
+580,2019,Tottenham Hotspur,Hugo Lloris,Francia,32,Portero
+581,2019,Tottenham Hotspur,Paulo Gazzaniga,Argentina,27,Portero
+582,2019,Tottenham Hotspur,Michel Vorm,Holanda,35,Portero
+583,2019,Tottenham Hotspur,Alfie Whiteman,Inglaterra,20,Portero
+584,2019,Tottenham Hotspur,Davinson Sánchez,Colombia,23,Defensa central 
+585,2019,Tottenham Hotspur,Toby Alderweireld,Belgica,30,Defensa central 
+586,2019,Tottenham Hotspur,Eric Dier,Inglaterra,25,Defensa central 
+587,2019,Tottenham Hotspur,Jan Vertonghen,Belgica,32,Defensa central 
+588,2019,Tottenham Hotspur,Ben Davies,Gales,26,Defensa central 
+589,2019,Tottenham Hotspur,Cameron Carter-Vickers,Estados unidos,21,Defensa central 
+590,2019,Tottenham Hotspur,Timothy Eyoma,Inglaterra,19,Defensa central 
+591,2019,Tottenham Hotspur,Danny Rose,Inglaterra,28,Lateral izquierdo
+592,2019,Tottenham Hotspur,Kieran Trippier,Inglaterra,28,Lateral derecho
+593,2019,Tottenham Hotspur,Serge Aurier,Costa de marfil,26,Lateral derecho
+594,2019,Tottenham Hotspur,Juan Foyth,Argentina,21,Lateral derecho
+595,2019,Tottenham Hotspur,Kyle Walker-Peters,Inglaterra,22,Lateral derecho
+596,2019,Tottenham Hotspur,Harry Winks,Inglaterra,23,Mediocampista defensivo
+597,2019,Tottenham Hotspur,Victor Wanyama,Kenia,28,Mediocampista defensivo
+598,2019,Tottenham Hotspur,Oliver Skipp,Inglaterra,18,Mediocampista defensivo
+599,2019,Tottenham Hotspur,George Marsh,Inglaterra,20,Mediocampista defensivo
+600,2019,Tottenham Hotspur,Christian Eriksen,Dinamarca,27,Mediocampista
+601,2019,Tottenham Hotspur,Moussa Sissoko,Francia,29,Mediocampista
+602,2019,Tottenham Hotspur,Mousa Dembélé,Belgica,31,Mediocampista
+603,2019,Tottenham Hotspur,Josh Onomah,Inglaterra,22,Mediocampista
+604,2019,Tottenham Hotspur,Dele Alli,Inglaterra,23,Mediocampista ofensivo
+605,2019,Tottenham Hotspur,Heung-min Son,Corea del sur,26,Extremo izquierdo
+606,2019,Tottenham Hotspur,Georges-Kevin N'Koudou,Camerún ,24,Extremo izquierdo
+607,2019,Tottenham Hotspur,Lucas Moura,Brasil,26,Extremo derecho
+608,2019,Tottenham Hotspur,Erik Lamela,Argentina,27,Extremo derecho
+609,2019,Tottenham Hotspur,Harry Kane,Inglaterra,25,Delantero centro
+610,2019,Tottenham Hotspur,Vincent Janssen,Holanda,25,Delantero centro
+611,2019,Tottenham Hotspur,Fernando Llorente,España,34,Delantero centro
+612,2019,Tottenham Hotspur,Kazaiah Sterling,Inglaterra,20,Delantero centro
+613,2020,Bayern Múnich,Manuel Neuer,Alemania,34,Portero
+614,2020,Bayern Múnich,Sven Ulreich,Alemania,31,Portero
+615,2020,Bayern Múnich,Christian Früchtl,Alemania,20,Portero
+616,2020,Bayern Múnich,Ron-Thorben Hoffmann,Alemania,21,Portero
+617,2020,Bayern Múnich,David Alaba,Austria,28,Defensa central 
+618,2020,Bayern Múnich,Niklas Süle,Alemania,24,Defensa central 
+619,2020,Bayern Múnich,Benjamin Pavard,Francia,24,Defensa central 
+620,2020,Bayern Múnich,Jérôme Boateng,Alemania,31,Defensa central 
+621,2020,Bayern Múnich,Lukas Mai,Alemania,20,Defensa central 
+622,2020,Bayern Múnich,Chris Richards,Estados unidos,20,Defensa central 
+623,2020,Bayern Múnich,Bright Arrey-Mbi,Alemania,17,Defensa central 
+624,2020,Bayern Múnich,Lucas Hernández,Francia,24,Lateral Izquierdo
+625,2020,Bayern Múnich,Alphonso Davies,Canadá,19,lateral Izquierdo
+626,2020,Bayern Múnich,Álvaro Odriozola,España,24,Lateral derecho
+627,2020,Bayern Múnich,Ryan Johansson,Irlanda,19,Lateral derecho
+628,2020,Bayern Múnich,Javi Martínez,España,31,Mediocampista defensivo
+629,2020,Bayern Múnich,Paul Will,Alemania,21,Mediocampista defensivo
+630,2020,Bayern Múnich,Joshua Kimmich,Alemania,25,Mediocentro
+631,2020,Bayern Múnich,Thiago Alcántara,España,29,Mediocentro
+632,2020,Bayern Múnich,Leon Goretzka,Alemania,25,Mediocentro
+633,2020,Bayern Múnich,Corentin Tolisso,Francia,25,Mediocentro
+634,2020,Bayern Múnich,Renato Sanches,Portugal,22,Mediocentro
+635,2020,Bayern Múnich,Michaël Cuisance,Francia,20,Mediocentro
+636,2020,Bayern Múnich,Philippe Coutinho,Brasil,28,mediocampista ofensivo
+637,2020,Bayern Múnich,Woo-yeong Jeong,Corea del sur,20,Mediocampista Ofensivo
+638,2020,Bayern Múnich,Sarpreet Singh,Nueva zelanda,21,Mediocampista ofensivo
+639,2020,Bayern Múnich,Oliver Batista Meier,Alemania,19,Mediocampista Ofensivo
+640,2020,Bayern Múnich,Malik Tillman,Estados unidos,18,Mediocampista ofensivo
+641,2020,Bayern Múnich,Jamal Musiala,Alemania,17,Mediocampista Ofensivo
+642,2020,Bayern Múnich,Kingsley Coman,Francia,24,Extremo izquierdo
+643,2020,Bayern Múnich,Ivan Perisic,Croacia,31,Extremo izquierdo
+644,2020,Bayern Múnich,Serge Gnabry,Alemania,24,Extremo derecho
+645,2020,Bayern Múnich,Thomas Müller,Alemania,30,Mediocampista ofensivo
+646,2020,Bayern Múnich,Leon Dajaku,Alemania,19,Mediocampista Ofensivo
+647,2020,Bayern Múnich,Robert Lewandowski,Polonia,31,Delantero centro
+648,2020,Bayern Múnich,Fiete Arp,Alemania,20,Delantero centro
+649,2020,Bayern Múnich,Kwasi Wriedt,Ghana,25,Delantero centro
+650,2020,París Saint-Germain ,Alphonse Areola,Francia,27,Portero
+651,2020,París Saint-Germain ,Kevin Trapp,Alemania,29,Portero
+652,2020,París Saint-Germain ,Keylor Navas,Costa rica,33,Portero
+653,2020,París Saint-Germain ,Sergio Rico,España,26,Portero
+654,2020,París Saint-Germain ,Marcin Bulka,Polonia,20,Portero
+655,2020,París Saint-Germain ,Farissone Innocent,Francia,20,Portero
+656,2020,París Saint-Germain ,Marquinhos,Brasil,26,Defensa central 
+657,2020,París Saint-Germain ,Presnel Kimpembe,Francia,24,Defensa central 
+658,2020,París Saint-Germain ,Thilo Kehrer,Alemania,23,Defensa central 
+659,2020,París Saint-Germain ,Abdou Diallo,Francia,24,Defensa central 
+660,2020,París Saint-Germain ,Tanguy Nianzou,Francia,18,Defensa central 
+661,2020,París Saint-Germain ,Thiago Silva,Brasil,35,Defensa central 
+662,2020,París Saint-Germain ,Loïc Mbe Soh,Camerún ,19,Defensa central 
+663,2020,París Saint-Germain ,Juan Bernat,España,27,Lateral Izquierdo
+664,2020,París Saint-Germain ,Layvin Kurzawa,Francia,27,Lateral Izquierdo
+665,2020,París Saint-Germain ,Arthur Zagré,Francia,18,Lateral Izquierdo
+666,2020,París Saint-Germain ,Mitchel Bakker,Holanda,20,Lateral Izquierdo
+667,2020,París Saint-Germain ,Thomas Meunier,Belgica,28,Lateral derecho
+668,2020,París Saint-Germain ,Colin Dagba,Francia,21,Lateral Derecho
+669,2020,París Saint-Germain ,Leandro Paredes,Argentina,26,Mediocampista defensivo
+670,2020,París Saint-Germain ,Marco Verratti,Italia,27,Mediocentro
+671,2020,París Saint-Germain ,Idrissa Gueye,Camerún ,30,Mediocentro
+672,2020,París Saint-Germain ,Ander Herrera,España,30,Mediocentro
+673,2020,París Saint-Germain ,Kays Ruis-Atil,Marruecos,17,Mediocentro
+674,2020,París Saint-Germain ,Adil Aouchiche,Francia,17,Mediocampista ofensivo
+675,2020,París Saint-Germain ,Neymar,Brasil,28,Extremo izquierdo
+676,2020,París Saint-Germain ,Julian Draxler,Alemania,26,Extremo izquierdo
+677,2020,París Saint-Germain ,Jesé Rodríguez,España,27,Extremo izquierdo
+678,2020,París Saint-Germain ,Ángel Di María,Argentina,32,Extremo derecho
+679,2020,París Saint-Germain ,Pablo Sarabia,España,28,Extremo derecho
+680,2020,París Saint-Germain ,Kylian Mbappé,Francia,21,Delantero centro
+681,2020,París Saint-Germain ,Mauro Icardi,Argentina,27,Delantero centro
+682,2020,París Saint-Germain ,Edinson Cavano,Uruguay,33,Delantero centro
+683,2020,París Saint-Germain ,Eric-Maxim Choupo-Moting,Camerún ,31,Delantero centro
+684,2020,París Saint-Germain ,Arbaud Kalimuendo,Francia,18,Delantero centro
+685,2021,Chelsea,Edouard Mendy,Senegal,29,Portero
+686,2021,Chelsea,Kepa Arrizabalaga,España,16,Portero
+687,2021,Chelsea,Jamal Blackman,Inglaterra,27,Portero
+688,2021,Chelsea,Nathan Baxter,Inglaterra,22,Portero
+689,2021,Chelsea,Willy Caballero,Argentina,39,Portero
+690,2021,Chelsea,Karlo Ziger,Croacia,20,Portero
+691,2021,Chelsea,Kurt Zouma,Francia,26,Defensa central 
+692,2021,Chelsea,Andreas Christensen,Dinamarca,25,Defensa central 
+693,2021,Chelsea,Antonio Rüdiger,Alemania,28,Defensa central 
+694,2021,Chelsea,Fikayo Tomori,Inglaterra,23,Defensa central 
+695,2021,Chelsea,César Azpilicueta,España,31,Defensa central 
+696,2021,Chelsea,Thiago Silva,Brasil,36,Defensa central 
+697,2021,Chelsea,Jake Clarke-Salter,Inglaterra,23,Defensa central 
+698,2021,Chelsea,Ben Chilwell,Inglaterra,24,Lateral izquierdo
+699,2021,Chelsea,Marcos Alonso,España,30,Lateral izquierdo
+700,2021,Chelsea,Emerson,Italia,26,Lateral izquierdo
+701,2021,Chelsea,Reece James,Inglaterra,21,Lateral derecho
+702,2021,Chelsea,Tino Livramento,Inglaterra,18,Lateral derecho
+703,2021,Chelsea,N´Golo Kanté,Francia,30,Mediocampista defensivo
+704,2021,Chelsea,Jorginho,Italia,29,Mediocampista defensivo
+705,2021,Chelsea,Ethan Ampadu,Gales,20,Mediocampista defensivo
+706,2021,Chelsea,Billy Gilmour,Escocia,20,Mediocampista defensivo
+707,2021,Chelsea,Mateo Kovacic,Croacia,27,Mediocentro
+708,2021,Chelsea,Ross Barkley,Inglaterra,27,Mediocentro
+709,2021,Chelsea,Ruben Loftuns-Cheek,Inglaterra,25,Mediocentro
+710,2021,Chelsea,Conor Gallagher,Inglaterra,21,Mediocentro
+711,2021,Chelsea,Lewis Bate,Inglaterra,18,Mediocentro
+712,2021,Chelsea,Mason Mount,Inglaterra,22,Mediocampista ofensivo
+713,2021,Chelsea,Tino Anjorin,Inglaterra,19,Mediocampista ofensivo
+714,2021,Chelsea,Timo Werner,Alemania,25,Extremo izquierdo
+715,2021,Chelsea,Callum Hudson-Odoi,Inglaterra,20,Extremo izquierdo
+716,2021,Chelsea,Izzy Brown,Inglaterra,24,Extremo izquierdo
+717,2021,Chelsea,Charly Musonda Jr.,Belgica,24,Extremo izquierdo
+718,2021,Chelsea,Christian Pulisic,Estados unidos,22,Extremo derecho
+719,2021,Chelsea,Hakim Ziyech,Marruecos,28,Extremo derecho
+720,2021,Chelsea,Kai Havertz,Alemania,22,Delantero centro
+721,2021,Chelsea,Tammy Abraham,Inglaterra,23,Delantero centro
+722,2021,Chelsea,Michy Batshuayi,Belgica,27,Delantero centro
+723,2021,Chelsea,Oliver Giroud,Francia,34,Delantero centro
+724,2021,Manchester City,Ederson,Brasil,27,Portero
+725,2021,Manchester City,Zack Steffen,Estados unidos,26,Portero
+726,2021,Manchester City,Scott Carson,Inglaterra,35,Portero
+727,2021,Manchester City,James Traffor,Inglaterra,18,Portero
+728,2021,Manchester City,Rúben Dias,Portugal,24,Defensa central 
+729,2021,Manchester City,Aymeric Laporte,España,27,Defensa central 
+730,2021,Manchester City,Nathan Aké,Holanda,26,Defensa central 
+731,2021,Manchester City,John Stones,Inglaterra,27,Defensa central 
+732,2021,Manchester City,Eric García,España,20,Defensa central 
+733,2021,Manchester City,Nicolás Otamendi,Argentina,33,Defensa central 
+734,2021,Manchester City,Taylor Harwood-Bellis,Inglaterra,19,Defensa central 
+735,2021,Manchester City,Philipe Sandler,Holanda,24,Defensa central 
+736,2021,Manchester City,Luke Mbete,Inglaterra,17,Defensa central 
+737,2021,Manchester City,Oleksandr Zinchenko,Ucrania,24,Lateral Izquierdo
+738,2021,Manchester City,Benjamin Mendy,Francia,26,Lateral Izquierdo
+739,2021,Manchester City,Joäo Cancelo,Portugal,27,Lateral Derecho
+740,2021,Manchester City,Kyle Walker-Peters,Inglaterra,31,Lateral Derecho
+741,2021,Manchester City,Rodri,España,25,Mediocampista defensivo
+742,2021,Manchester City,Fernandinho,Brasil,36,Mediocampista defensivo
+743,2021,Manchester City,Claudio Gomes,Francia,20,Mediocampista defensivo
+744,2021,Manchester City,Ilkay Gündo?an,Alemania,30,Mediocentro
+745,2021,Manchester City,Adrián Bernabé,Francia,20,Mediocentro
+746,2021,Manchester City,Tommy Doyle,Inglaterra,19,Mediocentro
+747,2021,Manchester City,Felix Nmecha,Alemania,20,Mediocentro
+748,2021,Manchester City,Kevin De Bruyne,Belgica,30,Mediocampista Ofensivo
+749,2021,Manchester City,Bernardo Silva,Portugal,26,Mediocampista Ofensivo
+750,2021,Manchester City,Cole Palmer,Inglaterra,19,Mediocampista Ofensivo
+751,2021,Manchester City,Raheem Sterling,Inglaterra,26,Extremo izquierdo
+752,2021,Manchester City,Phil Foden,Inglaterra,21,Extremo derecho
+753,2021,Manchester City,Ferran Torres,España,21,Extremo derecho
+754,2021,Manchester City,Riyad Mahrez,Argelia,30,Extremo derecho
+755,2021,Manchester City,Jack Harrison,Inglaterra,24,Extremo derecho
+756,2021,Manchester City,Patrick Roberts,Inglaterra,24,Extremo derecho
+757,2021,Manchester City,Gabriel Jesús,Brasil,24,Delantero centro
+758,2021,Manchester City,Sergio Agüero,Argentina,33,Delantero centro
+759,2021,Manchester City,Liam Delap,Inglaterra,18,Delantero centro
+760,2022,Liverpool,Alisson,Brasil,29,Portero
+761,2022,Liverpool,Caoimhín Kelleher,Brasil,23,Portero
+762,2022,Liverpool,Loris Karius,Alemania,29,Portero
+763,2022,Liverpool,Adrián,España,35,Portero
+764,2022,Liverpool,Marcelo Pitaluga,Brasil,19,Portero
+765,2022,Liverpool,Liam Hughes,Irlanda del norte,20,Portero
+766,2022,Liverpool,Harvey Davies,Inglaterra,18,Portero
+767,2022,Liverpool,Virgil Van Dijk,Holanda,30,Defensa central 
+768,2022,Liverpool,Ibrahima Konaté,Francia,23,Defensa central 
+769,2022,Liverpool,Joe Gomez,Inglaterra,25,Defensa central 
+770,2022,Liverpool,Joel Matip,Camerún ,30,Defensa central 
+771,2022,Liverpool,Nat Phillips,Inglaterra,25,Defensa central 
+772,2022,Liverpool,Sepp van den Berg,Holanda,20,Defensa central 
+773,2022,Liverpool,Rhys Williams,Inglaterra,21,Defensa central 
+774,2022,Liverpool,Ben Davies,Inglaterra,26,Defensa central 
+775,2022,Liverpool,Billy Koumetio,Francia,19,Defensa central 
+776,2022,Liverpool,Jarell Quansah,Inglaterra,19,Defensa central 
+777,2022,Liverpool,Andrew Robertson,Escocia,28,Lateral izquierdo
+778,2022,Liverpool,Konstantinos Tsimikas,Grecia,26,Lateral izquierdo
+779,2022,Liverpool,Owen Beck,Gales,19,Lateral izquierdo
+780,2022,Liverpool,James Norris,Inglaterra,19,Lateral izquierdo
+781,2022,Liverpool,Trent Alexander-Arnold,Inglaterra,23,Lateral derecho
+782,2022,Liverpool,Neco Williams,Gales,21,Lateral derecho
+783,2022,Liverpool,Conor Bradley,Irlanda del norte,18,Lateral derecho
+784,2022,Liverpool,Isaac Mabaya,Zimbabue,17,Lateral derecho
+785,2022,Liverpool,Fabinho,Brasil,28,Mediocampista defensivo
+786,2022,Liverpool,Tyler Morton,Inglaterra,19,Mediocampista defensivo
+787,2022,Liverpool,Curtis Jones,Inglaterra,21,Mediocentro
+788,2022,Liverpool,Naby Keïta ,Guinea,27,Mediocentro
+789,2022,Liverpool,Harvey Elliott,Inglaterra,19,Mediocentro
+790,2022,Liverpool,Thiago Alcántara,España,31,Mediocentro
+791,2022,Liverpool,Alex Oxlade-Chamberlain,Inglaterra,28,Mediocentro
+792,2022,Liverpool,Jordan Henderson,Inglaterra,32,Mediocentro
+793,2022,Liverpool,James Milner,Inglaterra,36,Mediocentro
+794,2022,Liverpool,Elijah Dixon-Bonner,Inglaterra,21,Mediocentro
+795,2022,Liverpool,James Balagizi,Inglaterra,18,Mediocentro
+796,2022,Liverpool,Ben Woodburn,Gales,22,Mediocampista ofensivo
+797,2022,Liverpool,Sadio Mané,Senegal,30,Extremo izquierdo
+798,2022,Liverpool,Luis Díaz,Colombia,25,Extremo izquierdo
+799,2022,Liverpool,Takumi Minamino,Japón,27,Extremo izquierdo
+800,2022,Liverpool,Harvey Blair,Inglaterra,18,Extremo izquierdo
+801,2022,Liverpool,Mohamed Salah,Egipto,30,Extremo derecho
+802,2022,Liverpool,Sheyi Ojo,Inglaterra,25,Extremo derecho
+803,2022,Liverpool,Kaide Gordon,Inglaterra,17,Extremo derecho
+804,2022,Liverpool,Melkamu Frauendorf,Alemania,18,Extremo derecho
+805,2022,Liverpool,Diogo Jota,Portugal,25,Delantero centro
+806,2022,Liverpool,Roberto Firmino,Brasil,30,Delantero centro
+807,2022,Liverpool,Divock Origi,Belgica,27,Delantero centro
+808,2022,Liverpool,Max Woltman,Inglaterra,18,Delantero centro
+809,2022,Real Madrid,Thibaut Courtois,Belgica,30,Portero
+810,2022,Real Madrid,Andriy Lunin,Ucrania,23,Portero
+811,2022,Real Madrid,Luis López,España,21,Portero
+812,2022,Real Madrid,Toni Fuidias,España,21,Portero
+813,2022,Real Madrid,Diego Piñeiro,España,18,Portero
+814,2022,Real Madrid,Éder Militaö,Brasil,24,Defensa central 
+815,2022,Real Madrid,David Alaba,Austria,30,Defensa central 
+816,2022,Real Madrid,Nacho Fernández,España,32,Defensa central 
+817,2022,Real Madrid,Jesús Vallejo,España,25,Defensa central 
+818,2022,Real Madrid,Mario Gila,España,21,Defensa central 
+819,2022,Real Madrid,Rafa Marín,España,20,Defensa central 
+820,2022,Real Madrid,Ferland Mendy,Francia,27,Lateral izquierdo
+821,2022,Real Madrid,Miguel Guitiérrez,España,20,Lateral izquierdo
+822,2022,Real Madrid,Marcelo,Brasil,34,Lateral izquierdo
+823,2022,Real Madrid,Daniel Carvajal,España,30,Lateral derecho
+824,2022,Real Madrid,Lucas Vázquez,España,30,Lateral derecho
+825,2022,Real Madrid,Álvaro Odriozola,España,26,Lateral derecho
+826,2022,Real Madrid,Sergio Santos,España,21,Lateral derecho
+827,2022,Real Madrid,Casemiro,Brasil,30,Mediocampista defensivo
+828,2022,Real Madrid,Antonio Blanco,España,21,Mediocampista defensivo
+829,2022,Real Madrid,Federico Valverde,Uruguay,12,Mediocentro
+830,2022,Real Madrid,Eduardo Camavinga,Francia,19,Mediocentro
+831,2022,Real Madrid,Toni Kroos,Alemania,32,Mediocentro
+832,2022,Real Madrid,Dani Ceballos,España,25,Mediocentro
+833,2022,Real Madrid,Luka Modric,Croacia,36,Mediocentro
+834,2022,Real Madrid,Isco,España,30,Mediocampista ofensivo
+835,2022,Real Madrid,Vinicius Junior,Brasil,21,Extremo izquierdo
+836,2022,Real Madrid,Eden Hazard,Belgica,31,Extremo izquierdo
+837,2022,Real Madrid,Rodrygo,Brasil,21,Extremo derecho
+838,2022,Real Madrid,Marco Asensio,España,26,Extremo derecho
+839,2022,Real Madrid,Gareth Bale,Gales,32,Extremo derecho
+840,2022,Real Madrid,Peter Federico,Republica dominicana,19,Extremo derecho
+841,2022,Real Madrid,Karim Benzema,Francia,34,Delantero centro
+842,2022,Real Madrid,Luka Jovic,Serbia,24,Delantero centro
+843,2022,Real Madrid,Mariano Díaz,Republica dominicana,28,Delantero centro
+844,2022,Real Madrid,Juanmi Latasa,España,21,Delantero centro
+845,2023,Manchester City,Ederson,Brasil,29,Portero
+846,2023,Manchester City,Stefan Ortega,Alemania,30,Portero
+847,2023,Manchester City,Zack Steffen,Estados unidos,28,Portero
+848,2023,Manchester City,Scott Carson,Inglaterra,37,Portero
+849,2023,Manchester City,Rúben Dias,Portugal,26,Defensa central 
+850,2023,Manchester City,Nathan Aké,Holanda,28,Defensa central 
+851,2023,Manchester City,John Stones,Inglaterra,29,Defensa central 
+852,2023,Manchester City,Manuel Akanji,Suiza,27,Defensa central 
+853,2023,Manchester City,Aymeric Laporte,España,29,Defensa central 
+854,2023,Manchester City,Luke Mbete,Inglaterra,19,Defensa central 
+855,2023,Manchester City,Josh Wilson-Esbrand,Inglaterra,20,Lateral izquierdo
+856,2023,Manchester City,Benjamin Mendy,Francia,28,Lateral izquierdo
+857,2023,Manchester City,Joäo Cancelo,Portugal,29,Lateral derecho
+858,2023,Manchester City,Rico Lewis,Inglaterra,18,Lateral derecho
+859,2023,Manchester City,Kyle Walker-Peters,Inglaterra,33,Lateral derecho
+860,2023,Manchester City,Rodri,España,27,Mediocampista defensivo
+861,2023,Manchester City,Kalvin Phillips,Inglaterra,27,Mediocampista defensivo
+862,2023,Manchester City,Máximo Perrone,Argentina,20,Mediocampista defensivo
+863,2023,Manchester City,Claudio Gomes,Francia,22,Mediocampista defensivo
+864,2023,Manchester City,Shea Charles,Irlanda del norte,19,Mediocampista defensivo
+865,2023,Manchester City,Ilkay Gündo?an,Alemania,32,Mediocentro
+866,2023,Manchester City,Alex Robertson,Australia,20,Mediocentro
+867,2023,Manchester City,Bernardo Silva,Portugal,28,Mediocampista ofensivo
+868,2023,Manchester City,Kevin De Bruyne,Belgica,32,Mediocampista ofensivo
+869,2023,Manchester City,Cole Palmer,Inglaterra,21,Mediocampista ofensivo
+870,2023,Manchester City,Nico O'Reilly,Inglaterra,18,Mediocampista ofensivo
+871,2023,Manchester City,Jack Gralish,Inglaterra,27,Extremo izquierdo
+872,2023,Manchester City,Phil Foden,Inglaterra,23,Extremo derecho
+873,2023,Manchester City,Riyad Mahrez,Argelia,32,Extremo derecho
+874,2023,Manchester City,Sergio Gómez,España,22,Extremo derecho
+875,2023,Manchester City,Ben Knight,Inglaterra,21,Extremo derecho
+876,2023,Manchester City,Erling Haaland,Noruega,22,Delantero centro
+877,2023,Manchester City,Julián Alvarez,Argentina,23,Delantero centro
+878,2023,Manchester City,Liam Delap,Inglaterra,20,Delantero centro
+879,2023,Manchester City,André Onana,Camerún ,27,Portero
+880,2023,Manchester City,Samir Handanovic,Eslovenia,30,Portero
+881,2023,Manchester City,Gabriel Brazäo,Brasil,22,Portero
+882,2023,Manchester City,Alex Cordaz,Italia,40,Portero
+883,2023,Manchester City,Nikolaos Botis,Grecia,19,Portero
+884,2023,Manchester City,Alessandro Bastoni,Italia,24,Defensa central 
+885,2023,Manchester City,Milan Skriniar,Eslovaquia,28,Defensa central 
+886,2023,Manchester City,Stefan de Vrij,Holanda,31,Defensa central 
+887,2023,Manchester City,Francesco Acerbi,Italia,35,Defensa central 
+888,2023,Manchester City,Danilo D'Ambrosio,Italia,34,Defensa central 
+889,2023,Manchester City,Alessandro Fontanarosa,Italia,20,Defensa central 
+890,2023,Manchester City,Federico Dimarco,Italia,25,Lateral izquierdo
+891,2023,Manchester City,Dalbert,Brasil,29,Lateral izquierdo
+892,2023,Manchester City,Denzel Dumfries,Holanda,27,Lateral derecho
+893,2023,Manchester City,Raoul Bellanova,Inglaterra,23,Lateral derecho
+894,2023,Manchester City,Matteo Darmian,Inglaterra,33,Lateral derecho
+895,2023,Manchester City,Mattia Zanotti,Inglaterra,20,Lateral derecho
+896,2023,Manchester City,Hakan Çalhano?lu,Turquía,29,Mediocampista defensivo
+897,2023,Manchester City,Marcelo Brozovic,Croacia,30,Mediocampista defensivo
+898,2023,Manchester City,Kristjan Asllani,Albania,21,Mediocampista defensivo
+899,2023,Manchester City,Lucien Agoumé,Francia,21,Mediocampista defensivo
+900,2023,Manchester City,Aleksandar Stankovic,Serbia,17,Mediocampista defensivo
+901,2023,Manchester City,Nicoló Barella,Italia,26,Mediocentro
+902,2023,Manchester City,Henrikh Mkhitaryan,Armenia,34,Mediocentro
+903,2023,Manchester City,Roberto Gagliardini,Italia,29,Mediocentro
+904,2023,Manchester City,Ebenezer Akinsanmiro,Nigeria,18,Mediocentro
+905,2023,Manchester City,Robin Gosens,Alemania,28,Extremo izquierdo
+906,2023,Manchester City,Valentín Carboni,Argentina,18,Mediocampista ofensivo
+907,2023,Manchester City,Issiaka Kamate,Francia,18,Extremo derecho
+908,2023,Manchester City,Joaquín Correa,Argentina,28,Mediocampista ofensivo
+909,2023,Manchester City,Lautaro Martínez,Argentina,25,Delantero centro
+910,2023,Manchester City,Romelu Lukaku,Belgica,30,Delantero centro
+911,2023,Manchester City,Edin Dzeko,Bosnia,37,Delantero centro
+912,2023,Manchester City,Eddie Salcedo,Italia,21,Delantero centro
+913,2023,Manchester City,Dennis Curatolo,Italia,19,Delantero centro
+914,2024,Borussia Dortmund,Gregor Kobel,Suiza,25,Portero
+915,2024,Borussia Dortmund,Marcel Lotka,Alemania,22,Portero
+916,2024,Borussia Dortmund,Alexander Meyer,Alemania,32,Portero
+917,2024,Borussia Dortmund,Hendry Blank,Alemania,19,Defensa central 
+918,2024,Borussia Dortmund,Nico Schlotterbeck,Alemania,23,Defensa central 
+919,2024,Borussia Dortmund,Niklas Süle,Alemania,27,Defensa central 
+920,2024,Borussia Dortmund,Mats Hummels,Alemania,34,Defensa central 
+921,2024,Borussia Dortmund,Antonios Papadopoulos,Alemania,23,Defensa central 
+922,2024,Borussia Dortmund,Ian Maatsen,Holanda,22,Lateral izquierdo
+923,2024,Borussia Dortmund,Ramy Bensabaini,Argelia,29,Lateral izquierdo
+924,2024,Borussia Dortmund,Guille Bueno,España,21,Lateral izquierdo
+925,2024,Borussia Dortmund,Julian Ryerson,Noruega,26,Lateral derecho
+926,2024,Borussia Dortmund,Marius Wolf,Alemania,29,Lateral derecho
+927,2024,Borussia Dortmund,Thomas Meunier,Belgica,32,Lateral derecho
+928,2024,Borussia Dortmund,Mateu Morey,España,24,Lateral derecho
+929,2024,Borussia Dortmund,Salih Özcan,Turquía,26,Mediocampista defensivo
+930,2024,Borussia Dortmund,Emre Can,Alemania,30,Mediocampista defensivo
+931,2024,Borussia Dortmund,Abdoulaye,Guinea,19,Mediocampista defensivo
+932,2024,Borussia Dortmund,Felix Nmecha,Alemania,23,Mediocentro
+933,2024,Borussia Dortmund,Marcel Sabitzer,Austria,30,Mediocentro
+934,2024,Borussia Dortmund,Kjell Wätjen,Alemania,18,Mediocentro
+935,2024,Borussia Dortmund,Ole Pohlmann,Alemania,23,Mediocentro
+936,2024,Borussia Dortmund,Julian Brandt,Alemania,28,Mediocampista ofensivo
+937,2024,Borussia Dortmund,Giovanni Reyna,Estados unidos,21,Mediocampista ofensivo
+938,2024,Borussia Dortmund,Marco Reus,Alemania,35,Mediocampista ofensivo
+939,2024,Borussia Dortmund,Jadon Sancho,Inglaterra,24,Extremo izquierdo
+940,2024,Borussia Dortmund,Karim Adeyemi,Alemania,22,Extremo izquierdo
+941,2024,Borussia Dortmund,Jamie Gittens,Inglaterra,19,Extremo izquierdo
+942,2024,Borussia Dortmund,Thorgan Hazard,Belgica,31,Extremo izquierdo
+943,2024,Borussia Dortmund,Donyell Malen,Holanda,25,Extremo derecho
+944,2024,Borussia Dortmund,Julien Duranville,Belgica,18,Extremo derecho
+945,2024,Borussia Dortmund,Samuel Bamba,Alemania,20,Extremo derecho
+946,2024,Borussia Dortmund,Youssoufa Moukoko,Alemania,19,Delantero centro
+947,2024,Borussia Dortmund,Niclas Füllkrug,Alemania,31,Delantero centro
+948,2024,Borussia Dortmund,Sébastien Haller,Costa de marfil,30,Delantero centro
+949,2024,Borussia Dortmund,Paris Brunner,Alemania,18,Delantero centro
+950,2024,Real Madrid,Thibaut Courtois,Belgica,32,Portero
+951,2024,Real Madrid,Andriy Lunin,Ucrania,25,Portero
+952,2024,Real Madrid,Kepa Arrizabalaga,España,29,Portero
+953,2024,Real Madrid,Lucas Cañizares,España,22,Portero
+954,2024,Real Madrid,Mario de Luis,España,22,Portero
+955,2024,Real Madrid,Diego Piñeiro,España,20,Portero
+956,2024,Real Madrid,Fran González,España,19,Portero
+957,2024,Real Madrid,Éder Militaö,Brasil,26,Defensa central 
+958,2024,Real Madrid,Antonio Rüdiger,Alemania,31,Defensa central 
+959,2024,Real Madrid,David Alaba,Austria,32,Defensa central 
+960,2024,Real Madrid,Nacho Fernández,España,34,Defensa central 
+961,2024,Real Madrid,Álvaro Carrillo,España,22,Defensa central 
+962,2024,Real Madrid,Edgar Pujol,Republica dominicana,19,Defensa central 

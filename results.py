@@ -13,8 +13,8 @@ df['winner-country'] = df['winner-country'].apply(translate).str.capitalize().re
 df['runner-up-country'] = df['runner-up-country'].apply(translate).str.capitalize().replace('Pavo', 'Turquía')
 df['final-country'] = df['final-country'].apply(translate).str.capitalize().replace('Pavo', 'Turquía')
 df['final-city'] = df['final-city'].apply(translate).str.capitalize().replace('Pavo', 'Turquía')
+df.to_csv("datasets/ucl-finals_limpio.csv")
 df
-
 # runner-up-country	
 # final-country
 # final-city 
