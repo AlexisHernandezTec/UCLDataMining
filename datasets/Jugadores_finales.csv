@@ -3,8 +3,8 @@ Año,Equipo,Nombre ,Nacionalidad,Edad,Posicion
 2010,Inter de Milán,Maicon ,Brasil,28,Lateral derecho
 2010,Inter de Milán,Lucio,Brasil,32,Defensa central 
 2010,Inter de Milán,Walter Samuel,Argentina,32,Defensa central 
-2010,Inter de Milán,Javier Zanetti,Argentina ,36,Lateral derecho/Mediocampista
-2010,Inter de Milán,Cristian Chivu,Rumania,29,Lateral Izquierdo/Defensa central
+2010,Inter de Milán,Javier Zanetti,Argentina ,36,Lateral derecho
+2010,Inter de Milán,Cristian Chivu,Rumania,29,Lateral Izquierdo
 2010,Inter de Milán,Esteban Cambiasso,Argentina,29,Mediocampista defensivo
 2010,Inter de Milán,Wesley Sneijder,Países Bajos,26,Mediocampista ofensivo
 2010,Inter de Milán,Goran Pandev,Macedionia del Norte ,26,Delantero
@@ -21,11 +21,11 @@ Año,Equipo,Nombre ,Nacionalidad,Edad,Posicion
 2010,Bayern Múnich,Philipp Lahm,Alemania,26,Lateral derecho
 2010,Bayern Múnich,Daniel Van Buyten,Bélgica,32,Defensa central 
 2010,Bayern Múnich,Martín Demichelis,Argentina,29,Defensa central 
-2010,Bayern Múnich,Holger Badstuber,Alemania,21,Lateral izquierdo/defensa central
+2010,Bayern Múnich,Holger Badstuber,Alemania,21,Lateral izquierdo
 2010,Bayern Múnich,Mark van Bommel,Países Bajos,33,Mediocampista defensivo
 2010,Bayern Múnich,Bastian Schweinsteiger,Alemania,25,Mediocampista central
 2010,Bayern Múnich,Arjen Robben,Países Bajos,26,Extremo derecho
-2010,Bayern Múnich,Thomas Müller,Alemania,20,Mediocampista ofensivo/delantero
+2010,Bayern Múnich,Thomas Müller,Alemania,20,Mediocampista ofensivo
 2010,Bayern Múnich,Ivica Oli?,Croacia,30,Delantero
 2010,Bayern Múnich,Hamít Alt?ntop,Turquía,27,Mediocampista
 2010,Bayern Múnich,Michael Rensing,Alemania,26,Portero
@@ -962,5 +962,3 @@ Año,Equipo,Nombre ,Nacionalidad,Edad,Posicion
 2024,Real Madrid,Nacho Fernández,España,34,Defensa central 
 2024,Real Madrid,Álvaro Carrillo,España,22,Defensa central 
 2024,Real Madrid,Edgar Pujol,Republica Dominicana,19,Defensa central 
-2024,Real Madrid,,,,
-2024,Real Madrid,,,,
