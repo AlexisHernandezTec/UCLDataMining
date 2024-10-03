@@ -1,40 +1,40 @@
 ,Año,Equipo,Nombre ,Nacionalidad,Edad,Posicion 
-0,2010,Inter de Milán,Julio César,Brasil,30,Portero
-1,2010,Inter de Milán,Maicon ,Brasil,28,Lateral derecho
-2,2010,Inter de Milán,Lucio,Brasil,32,Defensa central 
-3,2010,Inter de Milán,Walter Samuel,Argentina,32,Defensa central 
-4,2010,Inter de Milán,Javier Zanetti,Argentina ,36,Lateral derecho
-5,2010,Inter de Milán,Cristian Chivu,Rumania,29,Lateral Izquierdo
-6,2010,Inter de Milán,Esteban Cambiasso,Argentina,29,Mediocampista defensivo
-7,2010,Inter de Milán,Wesley Sneijder,Países bajos,26,Mediocampista ofensivo
-8,2010,Inter de Milán,Goran Pandev,Macedionia del norte ,26,Delantero
-9,2010,Inter de Milán,Diego Milito ,Argentina,30,Delantero centro
-10,2010,Inter de Milán,Samuel Eto'o,Camerún ,29,Delantero
-11,2010,Inter de Milán,Francesco Toldo ,Italia,38,Protero
-12,2010,Inter de Milán,Ivan Córdoba,Colombia,33,Defensa central 
-13,2010,Inter de Milán,Marco Materazzi,Italia,36,Defensa central 
-14,2010,Inter de Milán,Dejan Stankovi?,Serbia,31,Mediocampista
-15,2010,Inter de Milán,Sully Muntari,Ghana,25,Mediocampista
-16,2010,Inter de Milán,McDonald Mariga,Italia,27,Mediocampista ofensivo
-17,2010,Inter de Milán,Mario Balotelli,Keniata,23,Mediocentro
-18,2010,Bayern Múnich,Hans-Jörg Butt,Alemania,35,Portero
-19,2010,Bayern Múnich,Philipp Lahm,Alemania,26,Lateral derecho
-20,2010,Bayern Múnich,Daniel Van Buyten,Bélgica,32,Defensa central 
-21,2010,Bayern Múnich,Martín Demichelis,Argentina,29,Defensa central 
-22,2010,Bayern Múnich,Holger Badstuber,Alemania,21,Lateral izquierdo
-23,2010,Bayern Múnich,Mark van Bommel,Países bajos,33,Mediocampista defensivo
-24,2010,Bayern Múnich,Bastian Schweinsteiger,Alemania,25,Mediocampista central
-25,2010,Bayern Múnich,Arjen Robben,Países bajos,26,Extremo derecho
-26,2010,Bayern Múnich,Thomas Müller,Alemania,20,Mediocampista ofensivo
-27,2010,Bayern Múnich,Ivica Oli?,Croacia,30,Delantero
-28,2010,Bayern Múnich,Hamít Alt?ntop,Turquía,27,Mediocampista
-29,2010,Bayern Múnich,Michael Rensing,Alemania,26,Portero
-30,2010,Bayern Múnich,Diego Contento,Alemania,20,Lateral Izquierdo
-31,2010,Bayern Múnich,Anatoliy Tymoshchuk,Ucrania,31,Mediocampista defensivo
-32,2010,Bayern Múnich,Mario Gómez,Alemania,24,Delantero
-33,2010,Bayern Múnich,Miroslav Klose,Alemania,31,Delantero centro
-34,2010,Bayern Múnich,Danijel Pranji?,Croacia,29,Centrocampista
-35,2010,Bayern Múnich,Andreas Görlitz,Alemania,28,Defensa
+0,2010,Inter Milan,Julio César,Brasil,30,Portero
+1,2010,Inter Milan,Maicon ,Brasil,28,Lateral derecho
+2,2010,Inter Milan,Lucio,Brasil,32,Defensa central 
+3,2010,Inter Milan,Walter Samuel,Argentina,32,Defensa central 
+4,2010,Inter Milan,Javier Zanetti,Argentina ,36,Lateral derecho
+5,2010,Inter Milan,Cristian Chivu,Rumania,29,Lateral Izquierdo
+6,2010,Inter Milan,Esteban Cambiasso,Argentina,29,Mediocampista defensivo
+7,2010,Inter Milan,Wesley Sneijder,Países bajos,26,Mediocampista ofensivo
+8,2010,Inter Milan,Goran Pandev,Macedionia del norte ,26,Delantero
+9,2010,Inter Milan,Diego Milito ,Argentina,30,Delantero centro
+10,2010,Inter Milan,Samuel Eto'o,Camerún ,29,Delantero
+11,2010,Inter Milan,Francesco Toldo ,Italia,38,Protero
+12,2010,Inter Milan,Ivan Córdoba,Colombia,33,Defensa central 
+13,2010,Inter Milan,Marco Materazzi,Italia,36,Defensa central 
+14,2010,Inter Milan,Dejan Stankovi?,Serbia,31,Mediocampista
+15,2010,Inter Milan,Sully Muntari,Ghana,25,Mediocampista
+16,2010,Inter Milan,McDonald Mariga,Italia,27,Mediocampista ofensivo
+17,2010,Inter Milan,Mario Balotelli,Keniata,23,Mediocentro
+18,2010,Bayern Munich,Hans-Jörg Butt,Alemania,35,Portero
+19,2010,Bayern Munich,Philipp Lahm,Alemania,26,Lateral derecho
+20,2010,Bayern Munich,Daniel Van Buyten,Bélgica,32,Defensa central 
+21,2010,Bayern Munich,Martín Demichelis,Argentina,29,Defensa central 
+22,2010,Bayern Munich,Holger Badstuber,Alemania,21,Lateral izquierdo
+23,2010,Bayern Munich,Mark van Bommel,Países bajos,33,Mediocampista defensivo
+24,2010,Bayern Munich,Bastian Schweinsteiger,Alemania,25,Mediocampista central
+25,2010,Bayern Munich,Arjen Robben,Países bajos,26,Extremo derecho
+26,2010,Bayern Munich,Thomas Müller,Alemania,20,Mediocampista ofensivo
+27,2010,Bayern Munich,Ivica Oli?,Croacia,30,Delantero
+28,2010,Bayern Munich,Hamít Alt?ntop,Turquía,27,Mediocampista
+29,2010,Bayern Munich,Michael Rensing,Alemania,26,Portero
+30,2010,Bayern Munich,Diego Contento,Alemania,20,Lateral Izquierdo
+31,2010,Bayern Munich,Anatoliy Tymoshchuk,Ucrania,31,Mediocampista defensivo
+32,2010,Bayern Munich,Mario Gómez,Alemania,24,Delantero
+33,2010,Bayern Munich,Miroslav Klose,Alemania,31,Delantero centro
+34,2010,Bayern Munich,Danijel Pranji?,Croacia,29,Centrocampista
+35,2010,Bayern Munich,Andreas Görlitz,Alemania,28,Defensa
 36,2011,Barcelona,Víctor Valdés,España,29,Portero
 37,2011,Barcelona,Dani Alves,Brasil,28,Lateral derecho
 38,2011,Barcelona,Gerard Piqué,España,24,Defensa central 
@@ -141,31 +141,31 @@
 139,2012,Chelsea,Didier Drogba,Costa de marfil,33,Delantero centro
 140,2012,Chelsea,Nicolas Anelka,Francia,32,Delantero centro
 141,2012,Chelsea,Daniel Sturridge,Inglaterra,21,Delantero centro
-142,2012,Bayern Múnich,Manuel Neuer,Alemania,26,Portero
-143,2012,Bayern Múnich,Hans-Jörg Butt,Alemania,38,Portero
-144,2012,Bayern Múnich,Maximiliam Riedmüller,Alemania,24,Portero
-145,2012,Bayern Múnich,Rouven Sattelmaier,Alemania,24,Portero
-146,2012,Bayern Múnich,Holger Badstuber,Alemania,23,Defensa central 
-147,2012,Bayern Múnich,David Alaba,Austria,20,Defensa central 
-148,2012,Bayern Múnich,Jérôme Boateng,Alemania,23,Defensa central 
-149,2012,Bayern Múnich,Daniel Van Buyten,Bulgaria,34,Defensa central 
-150,2012,Bayern Múnich,Breno,Brasil,22,Defensa central 
-151,2012,Bayern Múnich,Danijel Pranji,Croacia,30,Lateral izquierdo
-152,2012,Bayern Múnich,Diego Contento,Alemania,22,Lateral izquierdo
-153,2012,Bayern Múnich,Philipp Lahm,Alemania,28,Lateral derecho
-154,2012,Bayern Múnich,Rafinha,Brasil,26,Lateral Derecho
-155,2012,Bayern Múnich,Luis Gustavo,Brasil,24,Mediocampista defensivo
-156,2012,Bayern Múnich,Anatoliy Tymoshchuk,Ucrania,33,Mediocampista defensivo
-157,2012,Bayern Múnich,Emre Can,Alemania,18,Mediocampista defensivo
-158,2012,Bayern Múnich,Bastian Schweinsteiger,Alemania,27,Mediocentro
-159,2012,Bayern Múnich,Toni Kroos,Alemania,22,Mediocentro
-160,2012,Bayern Múnich,Franck Ribéry,Francia,29,Extremo izquierdo
-161,2012,Bayern Múnich,Arjen Robben,Holanda,28,Extremo derecho
-162,2012,Bayern Múnich,Thomas Müller,Alemania,22,Mediocampista ofensivo
-163,2012,Bayern Múnich,Mario Gómez,Alemania,26,Delantero centro
-164,2012,Bayern Múnich,Ivica Oli,Croacia,32,Delantero centro
-165,2012,Bayern Múnich,Nils Petersen,Alemania,23,Delantero centro
-166,2012,Bayern Múnich,Takashi Usami,Japón,20,Delantero centro
+142,2012,Bayern Munich,Manuel Neuer,Alemania,26,Portero
+143,2012,Bayern Munich,Hans-Jörg Butt,Alemania,38,Portero
+144,2012,Bayern Munich,Maximiliam Riedmüller,Alemania,24,Portero
+145,2012,Bayern Munich,Rouven Sattelmaier,Alemania,24,Portero
+146,2012,Bayern Munich,Holger Badstuber,Alemania,23,Defensa central 
+147,2012,Bayern Munich,David Alaba,Austria,20,Defensa central 
+148,2012,Bayern Munich,Jérôme Boateng,Alemania,23,Defensa central 
+149,2012,Bayern Munich,Daniel Van Buyten,Bulgaria,34,Defensa central 
+150,2012,Bayern Munich,Breno,Brasil,22,Defensa central 
+151,2012,Bayern Munich,Danijel Pranji,Croacia,30,Lateral izquierdo
+152,2012,Bayern Munich,Diego Contento,Alemania,22,Lateral izquierdo
+153,2012,Bayern Munich,Philipp Lahm,Alemania,28,Lateral derecho
+154,2012,Bayern Munich,Rafinha,Brasil,26,Lateral Derecho
+155,2012,Bayern Munich,Luis Gustavo,Brasil,24,Mediocampista defensivo
+156,2012,Bayern Munich,Anatoliy Tymoshchuk,Ucrania,33,Mediocampista defensivo
+157,2012,Bayern Munich,Emre Can,Alemania,18,Mediocampista defensivo
+158,2012,Bayern Munich,Bastian Schweinsteiger,Alemania,27,Mediocentro
+159,2012,Bayern Munich,Toni Kroos,Alemania,22,Mediocentro
+160,2012,Bayern Munich,Franck Ribéry,Francia,29,Extremo izquierdo
+161,2012,Bayern Munich,Arjen Robben,Holanda,28,Extremo derecho
+162,2012,Bayern Munich,Thomas Müller,Alemania,22,Mediocampista ofensivo
+163,2012,Bayern Munich,Mario Gómez,Alemania,26,Delantero centro
+164,2012,Bayern Munich,Ivica Oli,Croacia,32,Delantero centro
+165,2012,Bayern Munich,Nils Petersen,Alemania,23,Delantero centro
+166,2012,Bayern Munich,Takashi Usami,Japón,20,Delantero centro
 167,2013,Borussia Dortmund,Roman Weindenfeller,Alemania,32,Portero
 168,2013,Borussia Dortmund,Mitchell Langerak,Australia,24,Portero
 169,2013,Borussia Dortmund,Zlatan Alomerovic,Serbia,22,Portero
@@ -197,35 +197,35 @@
 195,2013,Borussia Dortmund,Robert Lewandowski,Polonia,24,Delantero centro
 196,2013,Borussia Dortmund,Julian Schieber,Alemania,24,Delantero centro
 197,2013,Borussia Dortmund,Bálint Bajner,Hungría,22,Delantero centro
-198,2013,Bayern Múnich,Manuel Neuer,Alemania,27,Portero
-199,2013,Bayern Múnich,Tom Starke,Alemania,32,Portero
-200,2013,Bayern Múnich,Lukas Raeder,Alemania,19,Portero
-201,2013,Bayern Múnich,Maximiliam Riedmüller,Alemania,25,Portero
-202,2013,Bayern Múnich,David Alaba,Austria,21,Defensa central 
-203,2013,Bayern Múnich,Jérôme Boateng,Alemania,24,Defensa central 
-204,2013,Bayern Múnich,Dante,Brasil,29,Defensa central 
-205,2013,Bayern Múnich,Holger Badstuber,Alemania,24,Defensa central 
-206,2013,Bayern Múnich,Daniel Van Buyten,Belgica,35,Defensa central 
-207,2013,Bayern Múnich,Diego Contento,Alemania,23,Lateral izquierdo
-208,2013,Bayern Múnich,Philipp Lahm,Alemania,29,Lateral derecho
-209,2013,Bayern Múnich,Rafinha,Brasil,27,Lateral derecho
-210,2013,Bayern Múnich,Mitchell Weiser,Alemania,19,Lateral derecho
-211,2013,Bayern Múnich,Vladimir Rankovic,Alemania,20,Lateral derecho
-212,2013,Bayern Múnich,Javi Martínez,España,24,Mediocampista defensivo
-213,2013,Bayern Múnich,Luiz Gustavo,Brasil,25,Mediocampista defensivo
-214,2013,Bayern Múnich,Anatoliy Tymoshchuk,Ucrania,34,Mediocampista defensivo
-215,2013,Bayern Múnich,Emre Can,Alemania,19,Mediocampista defensivo
-216,2013,Bayern Múnich,Pierre-Emile Højbjerg,Dinamarca,17,Mediocampista defensivo
-217,2013,Bayern Múnich,Bastian Schweinsteiger,Alemania,28,Mediocampista
-218,2013,Bayern Múnich,Toni Kroos,Alemania,23,Mediocampista
-219,2013,Bayern Múnich,Xherdan Shaqiri,Suiza,21,Mediocampista ofensivo
-220,2013,Bayern Múnich,Patrick Weihrauch,Alemania,19,Mediocampista ofensivo
-221,2013,Bayern Múnich,Franck Ribéry,Francia,30,Extremo izquierdo
-222,2013,Bayern Múnich,Arjen Robben,Holanda,29,Extremo derecho
-223,2013,Bayern Múnich,Thomas Müller,Alemania,23,Mediocampista ofensivo
-224,2013,Bayern Múnich,Mario Gómez,Alemania,27,Delantero centro
-225,2013,Bayern Múnich,Mario Manduki?,Croacia,27,Delantero centro
-226,2013,Bayern Múnich,Claudio Pizarro,Perú,34,Delantero centro
+198,2013,Bayern Munich,Manuel Neuer,Alemania,27,Portero
+199,2013,Bayern Munich,Tom Starke,Alemania,32,Portero
+200,2013,Bayern Munich,Lukas Raeder,Alemania,19,Portero
+201,2013,Bayern Munich,Maximiliam Riedmüller,Alemania,25,Portero
+202,2013,Bayern Munich,David Alaba,Austria,21,Defensa central 
+203,2013,Bayern Munich,Jérôme Boateng,Alemania,24,Defensa central 
+204,2013,Bayern Munich,Dante,Brasil,29,Defensa central 
+205,2013,Bayern Munich,Holger Badstuber,Alemania,24,Defensa central 
+206,2013,Bayern Munich,Daniel Van Buyten,Belgica,35,Defensa central 
+207,2013,Bayern Munich,Diego Contento,Alemania,23,Lateral izquierdo
+208,2013,Bayern Munich,Philipp Lahm,Alemania,29,Lateral derecho
+209,2013,Bayern Munich,Rafinha,Brasil,27,Lateral derecho
+210,2013,Bayern Munich,Mitchell Weiser,Alemania,19,Lateral derecho
+211,2013,Bayern Munich,Vladimir Rankovic,Alemania,20,Lateral derecho
+212,2013,Bayern Munich,Javi Martínez,España,24,Mediocampista defensivo
+213,2013,Bayern Munich,Luiz Gustavo,Brasil,25,Mediocampista defensivo
+214,2013,Bayern Munich,Anatoliy Tymoshchuk,Ucrania,34,Mediocampista defensivo
+215,2013,Bayern Munich,Emre Can,Alemania,19,Mediocampista defensivo
+216,2013,Bayern Munich,Pierre-Emile Højbjerg,Dinamarca,17,Mediocampista defensivo
+217,2013,Bayern Munich,Bastian Schweinsteiger,Alemania,28,Mediocampista
+218,2013,Bayern Munich,Toni Kroos,Alemania,23,Mediocampista
+219,2013,Bayern Munich,Xherdan Shaqiri,Suiza,21,Mediocampista ofensivo
+220,2013,Bayern Munich,Patrick Weihrauch,Alemania,19,Mediocampista ofensivo
+221,2013,Bayern Munich,Franck Ribéry,Francia,30,Extremo izquierdo
+222,2013,Bayern Munich,Arjen Robben,Holanda,29,Extremo derecho
+223,2013,Bayern Munich,Thomas Müller,Alemania,23,Mediocampista ofensivo
+224,2013,Bayern Munich,Mario Gómez,Alemania,27,Delantero centro
+225,2013,Bayern Munich,Mario Manduki?,Croacia,27,Delantero centro
+226,2013,Bayern Munich,Claudio Pizarro,Perú,34,Delantero centro
 227,2014,Real Madrid,Iker Casillas,España,33,Portero
 228,2014,Real Madrid,Diego Lopez,España,32,Portero
 229,2014,Real Madrid,Jesús Fernández,España,26,Portero
@@ -612,78 +612,78 @@
 610,2019,Tottenham Hotspur,Vincent Janssen,Holanda,25,Delantero centro
 611,2019,Tottenham Hotspur,Fernando Llorente,España,34,Delantero centro
 612,2019,Tottenham Hotspur,Kazaiah Sterling,Inglaterra,20,Delantero centro
-613,2020,Bayern Múnich,Manuel Neuer,Alemania,34,Portero
-614,2020,Bayern Múnich,Sven Ulreich,Alemania,31,Portero
-615,2020,Bayern Múnich,Christian Früchtl,Alemania,20,Portero
-616,2020,Bayern Múnich,Ron-Thorben Hoffmann,Alemania,21,Portero
-617,2020,Bayern Múnich,David Alaba,Austria,28,Defensa central 
-618,2020,Bayern Múnich,Niklas Süle,Alemania,24,Defensa central 
-619,2020,Bayern Múnich,Benjamin Pavard,Francia,24,Defensa central 
-620,2020,Bayern Múnich,Jérôme Boateng,Alemania,31,Defensa central 
-621,2020,Bayern Múnich,Lukas Mai,Alemania,20,Defensa central 
-622,2020,Bayern Múnich,Chris Richards,Estados unidos,20,Defensa central 
-623,2020,Bayern Múnich,Bright Arrey-Mbi,Alemania,17,Defensa central 
-624,2020,Bayern Múnich,Lucas Hernández,Francia,24,Lateral Izquierdo
-625,2020,Bayern Múnich,Alphonso Davies,Canadá,19,lateral Izquierdo
-626,2020,Bayern Múnich,Álvaro Odriozola,España,24,Lateral derecho
-627,2020,Bayern Múnich,Ryan Johansson,Irlanda,19,Lateral derecho
-628,2020,Bayern Múnich,Javi Martínez,España,31,Mediocampista defensivo
-629,2020,Bayern Múnich,Paul Will,Alemania,21,Mediocampista defensivo
-630,2020,Bayern Múnich,Joshua Kimmich,Alemania,25,Mediocentro
-631,2020,Bayern Múnich,Thiago Alcántara,España,29,Mediocentro
-632,2020,Bayern Múnich,Leon Goretzka,Alemania,25,Mediocentro
-633,2020,Bayern Múnich,Corentin Tolisso,Francia,25,Mediocentro
-634,2020,Bayern Múnich,Renato Sanches,Portugal,22,Mediocentro
-635,2020,Bayern Múnich,Michaël Cuisance,Francia,20,Mediocentro
-636,2020,Bayern Múnich,Philippe Coutinho,Brasil,28,mediocampista ofensivo
-637,2020,Bayern Múnich,Woo-yeong Jeong,Corea del sur,20,Mediocampista Ofensivo
-638,2020,Bayern Múnich,Sarpreet Singh,Nueva zelanda,21,Mediocampista ofensivo
-639,2020,Bayern Múnich,Oliver Batista Meier,Alemania,19,Mediocampista Ofensivo
-640,2020,Bayern Múnich,Malik Tillman,Estados unidos,18,Mediocampista ofensivo
-641,2020,Bayern Múnich,Jamal Musiala,Alemania,17,Mediocampista Ofensivo
-642,2020,Bayern Múnich,Kingsley Coman,Francia,24,Extremo izquierdo
-643,2020,Bayern Múnich,Ivan Perisic,Croacia,31,Extremo izquierdo
-644,2020,Bayern Múnich,Serge Gnabry,Alemania,24,Extremo derecho
-645,2020,Bayern Múnich,Thomas Müller,Alemania,30,Mediocampista ofensivo
-646,2020,Bayern Múnich,Leon Dajaku,Alemania,19,Mediocampista Ofensivo
-647,2020,Bayern Múnich,Robert Lewandowski,Polonia,31,Delantero centro
-648,2020,Bayern Múnich,Fiete Arp,Alemania,20,Delantero centro
-649,2020,Bayern Múnich,Kwasi Wriedt,Ghana,25,Delantero centro
-650,2020,París Saint-Germain ,Alphonse Areola,Francia,27,Portero
-651,2020,París Saint-Germain ,Kevin Trapp,Alemania,29,Portero
-652,2020,París Saint-Germain ,Keylor Navas,Costa rica,33,Portero
-653,2020,París Saint-Germain ,Sergio Rico,España,26,Portero
-654,2020,París Saint-Germain ,Marcin Bulka,Polonia,20,Portero
-655,2020,París Saint-Germain ,Farissone Innocent,Francia,20,Portero
-656,2020,París Saint-Germain ,Marquinhos,Brasil,26,Defensa central 
-657,2020,París Saint-Germain ,Presnel Kimpembe,Francia,24,Defensa central 
-658,2020,París Saint-Germain ,Thilo Kehrer,Alemania,23,Defensa central 
-659,2020,París Saint-Germain ,Abdou Diallo,Francia,24,Defensa central 
-660,2020,París Saint-Germain ,Tanguy Nianzou,Francia,18,Defensa central 
-661,2020,París Saint-Germain ,Thiago Silva,Brasil,35,Defensa central 
-662,2020,París Saint-Germain ,Loïc Mbe Soh,Camerún ,19,Defensa central 
-663,2020,París Saint-Germain ,Juan Bernat,España,27,Lateral Izquierdo
-664,2020,París Saint-Germain ,Layvin Kurzawa,Francia,27,Lateral Izquierdo
-665,2020,París Saint-Germain ,Arthur Zagré,Francia,18,Lateral Izquierdo
-666,2020,París Saint-Germain ,Mitchel Bakker,Holanda,20,Lateral Izquierdo
-667,2020,París Saint-Germain ,Thomas Meunier,Belgica,28,Lateral derecho
-668,2020,París Saint-Germain ,Colin Dagba,Francia,21,Lateral Derecho
-669,2020,París Saint-Germain ,Leandro Paredes,Argentina,26,Mediocampista defensivo
-670,2020,París Saint-Germain ,Marco Verratti,Italia,27,Mediocentro
-671,2020,París Saint-Germain ,Idrissa Gueye,Camerún ,30,Mediocentro
-672,2020,París Saint-Germain ,Ander Herrera,España,30,Mediocentro
-673,2020,París Saint-Germain ,Kays Ruis-Atil,Marruecos,17,Mediocentro
-674,2020,París Saint-Germain ,Adil Aouchiche,Francia,17,Mediocampista ofensivo
-675,2020,París Saint-Germain ,Neymar,Brasil,28,Extremo izquierdo
-676,2020,París Saint-Germain ,Julian Draxler,Alemania,26,Extremo izquierdo
-677,2020,París Saint-Germain ,Jesé Rodríguez,España,27,Extremo izquierdo
-678,2020,París Saint-Germain ,Ángel Di María,Argentina,32,Extremo derecho
-679,2020,París Saint-Germain ,Pablo Sarabia,España,28,Extremo derecho
-680,2020,París Saint-Germain ,Kylian Mbappé,Francia,21,Delantero centro
-681,2020,París Saint-Germain ,Mauro Icardi,Argentina,27,Delantero centro
-682,2020,París Saint-Germain ,Edinson Cavano,Uruguay,33,Delantero centro
-683,2020,París Saint-Germain ,Eric-Maxim Choupo-Moting,Camerún ,31,Delantero centro
-684,2020,París Saint-Germain ,Arbaud Kalimuendo,Francia,18,Delantero centro
+613,2020,Bayern Munich,Manuel Neuer,Alemania,34,Portero
+614,2020,Bayern Munich,Sven Ulreich,Alemania,31,Portero
+615,2020,Bayern Munich,Christian Früchtl,Alemania,20,Portero
+616,2020,Bayern Munich,Ron-Thorben Hoffmann,Alemania,21,Portero
+617,2020,Bayern Munich,David Alaba,Austria,28,Defensa central 
+618,2020,Bayern Munich,Niklas Süle,Alemania,24,Defensa central 
+619,2020,Bayern Munich,Benjamin Pavard,Francia,24,Defensa central 
+620,2020,Bayern Munich,Jérôme Boateng,Alemania,31,Defensa central 
+621,2020,Bayern Munich,Lukas Mai,Alemania,20,Defensa central 
+622,2020,Bayern Munich,Chris Richards,Estados unidos,20,Defensa central 
+623,2020,Bayern Munich,Bright Arrey-Mbi,Alemania,17,Defensa central 
+624,2020,Bayern Munich,Lucas Hernández,Francia,24,Lateral Izquierdo
+625,2020,Bayern Munich,Alphonso Davies,Canadá,19,lateral Izquierdo
+626,2020,Bayern Munich,Álvaro Odriozola,España,24,Lateral derecho
+627,2020,Bayern Munich,Ryan Johansson,Irlanda,19,Lateral derecho
+628,2020,Bayern Munich,Javi Martínez,España,31,Mediocampista defensivo
+629,2020,Bayern Munich,Paul Will,Alemania,21,Mediocampista defensivo
+630,2020,Bayern Munich,Joshua Kimmich,Alemania,25,Mediocentro
+631,2020,Bayern Munich,Thiago Alcántara,España,29,Mediocentro
+632,2020,Bayern Munich,Leon Goretzka,Alemania,25,Mediocentro
+633,2020,Bayern Munich,Corentin Tolisso,Francia,25,Mediocentro
+634,2020,Bayern Munich,Renato Sanches,Portugal,22,Mediocentro
+635,2020,Bayern Munich,Michaël Cuisance,Francia,20,Mediocentro
+636,2020,Bayern Munich,Philippe Coutinho,Brasil,28,mediocampista ofensivo
+637,2020,Bayern Munich,Woo-yeong Jeong,Corea del sur,20,Mediocampista Ofensivo
+638,2020,Bayern Munich,Sarpreet Singh,Nueva zelanda,21,Mediocampista ofensivo
+639,2020,Bayern Munich,Oliver Batista Meier,Alemania,19,Mediocampista Ofensivo
+640,2020,Bayern Munich,Malik Tillman,Estados unidos,18,Mediocampista ofensivo
+641,2020,Bayern Munich,Jamal Musiala,Alemania,17,Mediocampista Ofensivo
+642,2020,Bayern Munich,Kingsley Coman,Francia,24,Extremo izquierdo
+643,2020,Bayern Munich,Ivan Perisic,Croacia,31,Extremo izquierdo
+644,2020,Bayern Munich,Serge Gnabry,Alemania,24,Extremo derecho
+645,2020,Bayern Munich,Thomas Müller,Alemania,30,Mediocampista ofensivo
+646,2020,Bayern Munich,Leon Dajaku,Alemania,19,Mediocampista Ofensivo
+647,2020,Bayern Munich,Robert Lewandowski,Polonia,31,Delantero centro
+648,2020,Bayern Munich,Fiete Arp,Alemania,20,Delantero centro
+649,2020,Bayern Munich,Kwasi Wriedt,Ghana,25,Delantero centro
+650,2020,Paris Saint-Germain ,Alphonse Areola,Francia,27,Portero
+651,2020,Paris Saint-Germain ,Kevin Trapp,Alemania,29,Portero
+652,2020,Paris Saint-Germain ,Keylor Navas,Costa rica,33,Portero
+653,2020,Paris Saint-Germain ,Sergio Rico,España,26,Portero
+654,2020,Paris Saint-Germain ,Marcin Bulka,Polonia,20,Portero
+655,2020,Paris Saint-Germain ,Farissone Innocent,Francia,20,Portero
+656,2020,Paris Saint-Germain ,Marquinhos,Brasil,26,Defensa central 
+657,2020,Paris Saint-Germain ,Presnel Kimpembe,Francia,24,Defensa central 
+658,2020,Paris Saint-Germain ,Thilo Kehrer,Alemania,23,Defensa central 
+659,2020,Paris Saint-Germain ,Abdou Diallo,Francia,24,Defensa central 
+660,2020,Paris Saint-Germain ,Tanguy Nianzou,Francia,18,Defensa central 
+661,2020,Paris Saint-Germain ,Thiago Silva,Brasil,35,Defensa central 
+662,2020,Paris Saint-Germain ,Loïc Mbe Soh,Camerún ,19,Defensa central 
+663,2020,Paris Saint-Germain ,Juan Bernat,España,27,Lateral Izquierdo
+664,2020,Paris Saint-Germain ,Layvin Kurzawa,Francia,27,Lateral Izquierdo
+665,2020,Paris Saint-Germain ,Arthur Zagré,Francia,18,Lateral Izquierdo
+666,2020,Paris Saint-Germain ,Mitchel Bakker,Holanda,20,Lateral Izquierdo
+667,2020,Paris Saint-Germain ,Thomas Meunier,Belgica,28,Lateral derecho
+668,2020,Paris Saint-Germain ,Colin Dagba,Francia,21,Lateral Derecho
+669,2020,Paris Saint-Germain ,Leandro Paredes,Argentina,26,Mediocampista defensivo
+670,2020,Paris Saint-Germain ,Marco Verratti,Italia,27,Mediocentro
+671,2020,Paris Saint-Germain ,Idrissa Gueye,Camerún ,30,Mediocentro
+672,2020,Paris Saint-Germain ,Ander Herrera,España,30,Mediocentro
+673,2020,Paris Saint-Germain ,Kays Ruis-Atil,Marruecos,17,Mediocentro
+674,2020,Paris Saint-Germain ,Adil Aouchiche,Francia,17,Mediocampista ofensivo
+675,2020,Paris Saint-Germain ,Neymar,Brasil,28,Extremo izquierdo
+676,2020,Paris Saint-Germain ,Julian Draxler,Alemania,26,Extremo izquierdo
+677,2020,Paris Saint-Germain ,Jesé Rodríguez,España,27,Extremo izquierdo
+678,2020,Paris Saint-Germain ,Ángel Di María,Argentina,32,Extremo derecho
+679,2020,Paris Saint-Germain ,Pablo Sarabia,España,28,Extremo derecho
+680,2020,Paris Saint-Germain ,Kylian Mbappé,Francia,21,Delantero centro
+681,2020,Paris Saint-Germain ,Mauro Icardi,Argentina,27,Delantero centro
+682,2020,Paris Saint-Germain ,Edinson Cavano,Uruguay,33,Delantero centro
+683,2020,Paris Saint-Germain ,Eric-Maxim Choupo-Moting,Camerún ,31,Delantero centro
+684,2020,Paris Saint-Germain ,Arbaud Kalimuendo,Francia,18,Delantero centro
 685,2021,Chelsea,Edouard Mendy,Senegal,29,Portero
 686,2021,Chelsea,Kepa Arrizabalaga,España,16,Portero
 687,2021,Chelsea,Jamal Blackman,Inglaterra,27,Portero
@@ -878,41 +878,41 @@
 876,2023,Manchester City,Erling Haaland,Noruega,22,Delantero centro
 877,2023,Manchester City,Julián Alvarez,Argentina,23,Delantero centro
 878,2023,Manchester City,Liam Delap,Inglaterra,20,Delantero centro
-879,2023,Manchester City,André Onana,Camerún ,27,Portero
-880,2023,Manchester City,Samir Handanovic,Eslovenia,30,Portero
-881,2023,Manchester City,Gabriel Brazäo,Brasil,22,Portero
-882,2023,Manchester City,Alex Cordaz,Italia,40,Portero
-883,2023,Manchester City,Nikolaos Botis,Grecia,19,Portero
-884,2023,Manchester City,Alessandro Bastoni,Italia,24,Defensa central 
-885,2023,Manchester City,Milan Skriniar,Eslovaquia,28,Defensa central 
-886,2023,Manchester City,Stefan de Vrij,Holanda,31,Defensa central 
-887,2023,Manchester City,Francesco Acerbi,Italia,35,Defensa central 
-888,2023,Manchester City,Danilo D'Ambrosio,Italia,34,Defensa central 
-889,2023,Manchester City,Alessandro Fontanarosa,Italia,20,Defensa central 
-890,2023,Manchester City,Federico Dimarco,Italia,25,Lateral izquierdo
-891,2023,Manchester City,Dalbert,Brasil,29,Lateral izquierdo
-892,2023,Manchester City,Denzel Dumfries,Holanda,27,Lateral derecho
-893,2023,Manchester City,Raoul Bellanova,Inglaterra,23,Lateral derecho
-894,2023,Manchester City,Matteo Darmian,Inglaterra,33,Lateral derecho
-895,2023,Manchester City,Mattia Zanotti,Inglaterra,20,Lateral derecho
-896,2023,Manchester City,Hakan Çalhano?lu,Turquía,29,Mediocampista defensivo
-897,2023,Manchester City,Marcelo Brozovic,Croacia,30,Mediocampista defensivo
-898,2023,Manchester City,Kristjan Asllani,Albania,21,Mediocampista defensivo
-899,2023,Manchester City,Lucien Agoumé,Francia,21,Mediocampista defensivo
-900,2023,Manchester City,Aleksandar Stankovic,Serbia,17,Mediocampista defensivo
-901,2023,Manchester City,Nicoló Barella,Italia,26,Mediocentro
-902,2023,Manchester City,Henrikh Mkhitaryan,Armenia,34,Mediocentro
-903,2023,Manchester City,Roberto Gagliardini,Italia,29,Mediocentro
-904,2023,Manchester City,Ebenezer Akinsanmiro,Nigeria,18,Mediocentro
-905,2023,Manchester City,Robin Gosens,Alemania,28,Extremo izquierdo
-906,2023,Manchester City,Valentín Carboni,Argentina,18,Mediocampista ofensivo
-907,2023,Manchester City,Issiaka Kamate,Francia,18,Extremo derecho
-908,2023,Manchester City,Joaquín Correa,Argentina,28,Mediocampista ofensivo
-909,2023,Manchester City,Lautaro Martínez,Argentina,25,Delantero centro
-910,2023,Manchester City,Romelu Lukaku,Belgica,30,Delantero centro
-911,2023,Manchester City,Edin Dzeko,Bosnia,37,Delantero centro
-912,2023,Manchester City,Eddie Salcedo,Italia,21,Delantero centro
-913,2023,Manchester City,Dennis Curatolo,Italia,19,Delantero centro
+879,2023,Inter Milan,André Onana,Camerún ,27,Portero
+880,2023,Inter Milan,Samir Handanovic,Eslovenia,30,Portero
+881,2023,Inter Milan,Gabriel Brazäo,Brasil,22,Portero
+882,2023,Inter Milan,Alex Cordaz,Italia,40,Portero
+883,2023,Inter Milan,Nikolaos Botis,Grecia,19,Portero
+884,2023,Inter Milan,Alessandro Bastoni,Italia,24,Defensa central 
+885,2023,Inter Milan,Milan Skriniar,Eslovaquia,28,Defensa central 
+886,2023,Inter Milan,Stefan de Vrij,Holanda,31,Defensa central 
+887,2023,Inter Milan,Francesco Acerbi,Italia,35,Defensa central 
+888,2023,Inter Milan,Danilo D'Ambrosio,Italia,34,Defensa central 
+889,2023,Inter Milan,Alessandro Fontanarosa,Italia,20,Defensa central 
+890,2023,Inter Milan,Federico Dimarco,Italia,25,Lateral izquierdo
+891,2023,Inter Milan,Dalbert,Brasil,29,Lateral izquierdo
+892,2023,Inter Milan,Denzel Dumfries,Holanda,27,Lateral derecho
+893,2023,Inter Milan,Raoul Bellanova,Inglaterra,23,Lateral derecho
+894,2023,Inter Milan,Matteo Darmian,Inglaterra,33,Lateral derecho
+895,2023,Inter Milan,Mattia Zanotti,Inglaterra,20,Lateral derecho
+896,2023,Inter Milan,Hakan Çalhano?lu,Turquía,29,Mediocampista defensivo
+897,2023,Inter Milan,Marcelo Brozovic,Croacia,30,Mediocampista defensivo
+898,2023,Inter Milan,Kristjan Asllani,Albania,21,Mediocampista defensivo
+899,2023,Inter Milan,Lucien Agoumé,Francia,21,Mediocampista defensivo
+900,2023,Inter Milan,Aleksandar Stankovic,Serbia,17,Mediocampista defensivo
+901,2023,Inter Milan,Nicoló Barella,Italia,26,Mediocentro
+902,2023,Inter Milan,Henrikh Mkhitaryan,Armenia,34,Mediocentro
+903,2023,Inter Milan,Roberto Gagliardini,Italia,29,Mediocentro
+904,2023,Inter Milan,Ebenezer Akinsanmiro,Nigeria,18,Mediocentro
+905,2023,Inter Milan,Robin Gosens,Alemania,28,Extremo izquierdo
+906,2023,Inter Milan,Valentín Carboni,Argentina,18,Mediocampista ofensivo
+907,2023,Inter Milan,Issiaka Kamate,Francia,18,Extremo derecho
+908,2023,Inter Milan,Joaquín Correa,Argentina,28,Mediocampista ofensivo
+909,2023,Inter Milan,Lautaro Martínez,Argentina,25,Delantero centro
+910,2023,Inter Milan,Romelu Lukaku,Belgica,30,Delantero centro
+911,2023,Inter Milan,Edin Dzeko,Bosnia,37,Delantero centro
+912,2023,Inter Milan,Eddie Salcedo,Italia,21,Delantero centro
+913,2023,Inter Milan,Dennis Curatolo,Italia,19,Delantero centro
 914,2024,Borussia Dortmund,Gregor Kobel,Suiza,25,Portero
 915,2024,Borussia Dortmund,Marcel Lotka,Alemania,22,Portero
 916,2024,Borussia Dortmund,Alexander Meyer,Alemania,32,Portero
@@ -962,3 +962,27 @@
 960,2024,Real Madrid,Nacho Fernández,España,34,Defensa central 
 961,2024,Real Madrid,Álvaro Carrillo,España,22,Defensa central 
 962,2024,Real Madrid,Edgar Pujol,Republica dominicana,19,Defensa central 
+963,2024,Real Madrid,Jacobo Ram�n,España,19,Defensa central 
+964,2024,Real Madrid,Ferland Mendy,Francia,29,Lateral izquierdo
+965,2024,Real Madrid,Fran Garc�a,España,24,Lateral izquierdo
+966,2024,Real Madrid,Daniel Carvajal,España,32,Lateral derecho
+967,2024,Real Madrid,Lucas Vázquez,España,32,Lateral derecho
+968,2024,Real Madrid,Vin�cius Tobias,Brasil,20,Lateral derecho
+969,2024,Real Madrid,Álvaro Odriozola,España,28,Lateral derecho
+970,2024,Real Madrid,Aur�lien Tchouam�ni,Francia,24,Mediocampista defensivo
+971,2024,Real Madrid,Mario Mart�n,España,20,Mediocampista defensivo
+972,2024,Real Madrid,Federico Valverde,Uruguay,25,Mediocentro
+973,2024,Real Madrid,Eduardo Camavinga,Francia,21,Mediocentro
+974,2024,Real Madrid,Toni Kroos,Alemania,34,Mediocentro
+975,2024,Real Madrid,Luka Modric,Croacia,38,Mediocentro
+976,2024,Real Madrid,Dani Ceballos,España,27,Mediocentro
+977,2024,Real Madrid,Th�o Zidane,Francia,22,Mediocentro
+978,2024,Real Madrid,Jude Bellingham,Inglaterra,21,Mediocampista ofensivo
+979,2024,Real Madrid,Brahim D�az,Marruecos,24,Mediocampista ofensivo
+980,2024,Real Madrid,Nico Paz,Argentina,19,Mediocampista ofensivo
+981,2024,Real Madrid,Vinicius Junior,Brasil,23,Extremo izquierdo
+982,2024,Real Madrid,Rodrygo,Brasil,23,Extremo derecho
+983,2024,Real Madrid,Arda G�ler,Turquía,21,Extremo derecho
+984,2024,Real Madrid,Gonzalo Garc�a,España,20,Extremo derecho
+985,2024,Real Madrid,Joselu,España,34,Delantero centro
+986,2024,Real Madrid,�lvaro Rodr�guez,Uruguay,19,Delantero centro
