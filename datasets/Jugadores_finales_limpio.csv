@@ -6,7 +6,7 @@
 4,2010,Inter Milan,Javier Zanetti,Argentina ,36,Lateral derecho
 5,2010,Inter Milan,Cristian Chivu,Rumania,29,Lateral Izquierdo
 6,2010,Inter Milan,Esteban Cambiasso,Argentina,29,Mediocampista defensivo
-7,2010,Inter Milan,Wesley Sneijder,Países bajos,26,Mediocampista ofensivo
+7,2010,Inter Milan,Wesley Sneijder,Paises Bajos,26,Mediocampista ofensivo
 8,2010,Inter Milan,Goran Pandev,Macedionia del norte ,26,Delantero
 9,2010,Inter Milan,Diego Milito ,Argentina,30,Delantero centro
 10,2010,Inter Milan,Samuel Eto'o,Camerún ,29,Delantero
@@ -22,9 +22,9 @@
 20,2010,Bayern Munich,Daniel Van Buyten,Bélgica,32,Defensa central 
 21,2010,Bayern Munich,Martín Demichelis,Argentina,29,Defensa central 
 22,2010,Bayern Munich,Holger Badstuber,Alemania,21,Lateral izquierdo
-23,2010,Bayern Munich,Mark van Bommel,Países bajos,33,Mediocampista defensivo
+23,2010,Bayern Munich,Mark van Bommel,Paises Bajos,33,Mediocampista defensivo
 24,2010,Bayern Munich,Bastian Schweinsteiger,Alemania,25,Mediocampista central
-25,2010,Bayern Munich,Arjen Robben,Países bajos,26,Extremo derecho
+25,2010,Bayern Munich,Arjen Robben,Paises Bajos,26,Extremo derecho
 26,2010,Bayern Munich,Thomas Müller,Alemania,20,Mediocampista ofensivo
 27,2010,Bayern Munich,Ivica Oli?,Croacia,30,Delantero
 28,2010,Bayern Munich,Hamít Alt?ntop,Turquía,27,Mediocampista
@@ -57,7 +57,7 @@
 55,2011,Barcelona,Seydou Keita,Senegal,31,Mediocampista
 56,2011,Barcelona,Thiago Alcántara,España,20,Mediocampista
 57,2011,Barcelona,Sergi Roberto,España,19,Mediocampista
-58,2011,Barcelona,Ibrahim Afellay,Holanda,25,Mediocampista ofensivo
+58,2011,Barcelona,Ibrahim Afellay,Paises Bajos,25,Mediocampista ofensivo
 59,2011,Barcelona,Víctor Vázquez,España,24,Mediocampista ofensivo
 60,2011,Barcelona,Nolito,España,24,Extremo izquierdo
 61,2011,Barcelona,Lionel Messi,Argentina,24,Extremo derecho
@@ -68,7 +68,7 @@
 66,2011,Barcelona,Oriol Romeu,España,19,Mediocampista defensivo
 67,2011,Manchester United,Anders Lindegaard,Dinamarca,27,Portero
 68,2011,Manchester United,Tomasz Kuszczak,Polonia,29,Portero
-69,2011,Manchester United,Edwin van der Sar,Holanda,40,Portero
+69,2011,Manchester United,Edwin van der Sar,Paises Bajos,40,Portero
 70,2011,Manchester United,Ben Amos,Inglaterra,21,Portero
 71,2011,Manchester United,Nemanja Vidic,Serbia,29,Defensa central 
 72,2011,Manchester United,Rio Ferdinand,Inglaterra,32,Defensa central 
@@ -115,10 +115,10 @@
 113,2012,Chelsea,David Luiz,Brasil,24,Defensa central 
 114,2012,Chelsea,Alex,Brasil,29,Defensa central 
 115,2012,Chelsea,Michael Mancienne,Inglaterra,23,Defensa central 
-116,2012,Chelsea,Jeffrey Bruma,Holanda,19,Defensa central 
+116,2012,Chelsea,Jeffrey Bruma,Paises Bajos,19,Defensa central 
 117,2012,Chelsea,Ashley Cole,Inglaterra,30,Lateral izquierdo
 118,2012,Chelsea,Ryan Bertrand,Inglaterra,21,Lateral izquierdo
-119,2012,Chelsea,Patrick van Aanholt,Holanda,21,Lateral izquierdo
+119,2012,Chelsea,Patrick van Aanholt,Paises Bajos,21,Lateral izquierdo
 120,2012,Chelsea,Ivanovic,Serbia,27,Lateral derecho
 121,2012,Chelsea,Bosingwa,Portugal,28,Lateral derecho
 122,2012,Chelsea,Paulo Ferreira,Portugal,32,Lateral derecho
@@ -160,7 +160,7 @@
 158,2012,Bayern Munich,Bastian Schweinsteiger,Alemania,27,Mediocentro
 159,2012,Bayern Munich,Toni Kroos,Alemania,22,Mediocentro
 160,2012,Bayern Munich,Franck Ribéry,Francia,29,Extremo izquierdo
-161,2012,Bayern Munich,Arjen Robben,Holanda,28,Extremo derecho
+161,2012,Bayern Munich,Arjen Robben,Paises Bajos,28,Extremo derecho
 162,2012,Bayern Munich,Thomas Müller,Alemania,22,Mediocampista ofensivo
 163,2012,Bayern Munich,Mario Gómez,Alemania,26,Delantero centro
 164,2012,Bayern Munich,Ivica Oli,Croacia,32,Delantero centro
@@ -221,7 +221,7 @@
 219,2013,Bayern Munich,Xherdan Shaqiri,Suiza,21,Mediocampista ofensivo
 220,2013,Bayern Munich,Patrick Weihrauch,Alemania,19,Mediocampista ofensivo
 221,2013,Bayern Munich,Franck Ribéry,Francia,30,Extremo izquierdo
-222,2013,Bayern Munich,Arjen Robben,Holanda,29,Extremo derecho
+222,2013,Bayern Munich,Arjen Robben,Paises Bajos,29,Extremo derecho
 223,2013,Bayern Munich,Thomas Müller,Alemania,23,Mediocampista ofensivo
 224,2013,Bayern Munich,Mario Gómez,Alemania,27,Delantero centro
 225,2013,Bayern Munich,Mario Manduki?,Croacia,27,Delantero centro
@@ -517,7 +517,7 @@
 515,2018,Liverpool,Simon Mignolet,Belgica,30,Portero
 516,2018,Liverpool,Danny Ward,Gales,25,Portero
 517,2018,Liverpool,Ádám Bogdá,Hungría,30,Portero
-518,2018,Liverpool,Virgil Van Dijk,Holanda,26,Defensa central 
+518,2018,Liverpool,Virgil Van Dijk,Paises Bajos,26,Defensa central 
 519,2018,Liverpool,Joel Matip,Camerún ,26,Defensa central 
 520,2018,Liverpool,Joe Gomez,Inglaterra,21,Defensa central 
 521,2018,Liverpool,Dejan Lovren,Croacia,28,Defensa central 
@@ -530,7 +530,7 @@
 528,2018,Liverpool,Connor Randall,Inglaterra,22,Lateral derecho
 529,2018,Liverpool,Emre Can,Alemania,24,Mediocampista defensivo
 530,2018,Liverpool,Alex Oxlade-Chamberlain,Inglaterra,24,Mediocampista
-531,2018,Liverpool,Georginio Wijnaldum,Holanda,27,Mediocampista
+531,2018,Liverpool,Georginio Wijnaldum,Paises Bajos,27,Mediocampista
 532,2018,Liverpool,Jordan Henderson,Inglaterra,28,Mediocampista
 533,2018,Liverpool,James Milner,Inglaterra,32,Mediocampista
 534,2018,Liverpool,Adam Lallana,Inglaterra,30,Mediocampista ofensivo
@@ -548,7 +548,7 @@
 546,2019,Liverpool,Simon Mignolet,Belgica,31,Portero
 547,2019,Liverpool,Kamil Grabara,Polonia,20,Portero
 548,2019,Liverpool,Ádám Bogdá,Hungría,31,Portero
-549,2019,Liverpool,Virgil Van Dijk,Holanda,27,Defensa central 
+549,2019,Liverpool,Virgil Van Dijk,Paises Bajos,27,Defensa central 
 550,2019,Liverpool,Joel Matip,Camerún ,27,Defensa central 
 551,2019,Liverpool,Joe Gomez,Inglaterra,22,Defensa central 
 552,2019,Liverpool,Dejan Lovren,Croacia,29,Defensa central 
@@ -556,11 +556,11 @@
 554,2019,Liverpool,Alberto Moreno,España,26,Lateral izquierdo
 555,2019,Liverpool,Trent Alexander-Arnold,Inglaterra,20,Lateral derecho
 556,2019,Liverpool,Nathaniel Clyne,Inglaterra,28,Lateral derecho
-557,2019,Liverpool,Ki-Jana Hoever,Holanda,17,Lateral derecho
+557,2019,Liverpool,Ki-Jana Hoever,Paises Bajos,17,Lateral derecho
 558,2019,Liverpool,Connor Randall,Inglaterra,23,Lateral derecho
 559,2019,Liverpool,Fabinho,Brasil,25,Mediocampista defensivo
 560,2019,Liverpool,Alex Oxlade-Chamberlain,Inglaterra,25,Mediocampista
-561,2019,Liverpool,Georginio Wijnaldum,Holanda,28,Mediocampista
+561,2019,Liverpool,Georginio Wijnaldum,Paises Bajos,28,Mediocampista
 562,2019,Liverpool,Jordan Henderson,Inglaterra,29,Mediocampista
 563,2019,Liverpool,James Milner,Inglaterra,33,Mediocampista
 564,2019,Liverpool,Adam Lallana,Inglaterra,31,Mediocampista ofensivo
@@ -581,7 +581,7 @@
 579,2019,Liverpool,Ryan Brewster,Inglaterra,19,Delantero centro
 580,2019,Tottenham Hotspur,Hugo Lloris,Francia,32,Portero
 581,2019,Tottenham Hotspur,Paulo Gazzaniga,Argentina,27,Portero
-582,2019,Tottenham Hotspur,Michel Vorm,Holanda,35,Portero
+582,2019,Tottenham Hotspur,Michel Vorm,Paises Bajos,35,Portero
 583,2019,Tottenham Hotspur,Alfie Whiteman,Inglaterra,20,Portero
 584,2019,Tottenham Hotspur,Davinson Sánchez,Colombia,23,Defensa central 
 585,2019,Tottenham Hotspur,Toby Alderweireld,Belgica,30,Defensa central 
@@ -609,7 +609,7 @@
 607,2019,Tottenham Hotspur,Lucas Moura,Brasil,26,Extremo derecho
 608,2019,Tottenham Hotspur,Erik Lamela,Argentina,27,Extremo derecho
 609,2019,Tottenham Hotspur,Harry Kane,Inglaterra,25,Delantero centro
-610,2019,Tottenham Hotspur,Vincent Janssen,Holanda,25,Delantero centro
+610,2019,Tottenham Hotspur,Vincent Janssen,Paises Bajos,25,Delantero centro
 611,2019,Tottenham Hotspur,Fernando Llorente,España,34,Delantero centro
 612,2019,Tottenham Hotspur,Kazaiah Sterling,Inglaterra,20,Delantero centro
 613,2020,Bayern Munich,Manuel Neuer,Alemania,34,Portero
@@ -665,7 +665,7 @@
 663,2020,Paris Saint-Germain ,Juan Bernat,España,27,Lateral Izquierdo
 664,2020,Paris Saint-Germain ,Layvin Kurzawa,Francia,27,Lateral Izquierdo
 665,2020,Paris Saint-Germain ,Arthur Zagré,Francia,18,Lateral Izquierdo
-666,2020,Paris Saint-Germain ,Mitchel Bakker,Holanda,20,Lateral Izquierdo
+666,2020,Paris Saint-Germain ,Mitchel Bakker,Paises Bajos,20,Lateral Izquierdo
 667,2020,Paris Saint-Germain ,Thomas Meunier,Belgica,28,Lateral derecho
 668,2020,Paris Saint-Germain ,Colin Dagba,Francia,21,Lateral Derecho
 669,2020,Paris Saint-Germain ,Leandro Paredes,Argentina,26,Mediocampista defensivo
@@ -729,12 +729,12 @@
 727,2021,Manchester City,James Traffor,Inglaterra,18,Portero
 728,2021,Manchester City,Rúben Dias,Portugal,24,Defensa central 
 729,2021,Manchester City,Aymeric Laporte,España,27,Defensa central 
-730,2021,Manchester City,Nathan Aké,Holanda,26,Defensa central 
+730,2021,Manchester City,Nathan Aké,Paises Bajos,26,Defensa central 
 731,2021,Manchester City,John Stones,Inglaterra,27,Defensa central 
 732,2021,Manchester City,Eric García,España,20,Defensa central 
 733,2021,Manchester City,Nicolás Otamendi,Argentina,33,Defensa central 
 734,2021,Manchester City,Taylor Harwood-Bellis,Inglaterra,19,Defensa central 
-735,2021,Manchester City,Philipe Sandler,Holanda,24,Defensa central 
+735,2021,Manchester City,Philipe Sandler,Paises Bajos,24,Defensa central 
 736,2021,Manchester City,Luke Mbete,Inglaterra,17,Defensa central 
 737,2021,Manchester City,Oleksandr Zinchenko,Ucrania,24,Lateral Izquierdo
 738,2021,Manchester City,Benjamin Mendy,Francia,26,Lateral Izquierdo
@@ -766,12 +766,12 @@
 764,2022,Liverpool,Marcelo Pitaluga,Brasil,19,Portero
 765,2022,Liverpool,Liam Hughes,Irlanda del norte,20,Portero
 766,2022,Liverpool,Harvey Davies,Inglaterra,18,Portero
-767,2022,Liverpool,Virgil Van Dijk,Holanda,30,Defensa central 
+767,2022,Liverpool,Virgil Van Dijk,Paises Bajos,30,Defensa central 
 768,2022,Liverpool,Ibrahima Konaté,Francia,23,Defensa central 
 769,2022,Liverpool,Joe Gomez,Inglaterra,25,Defensa central 
 770,2022,Liverpool,Joel Matip,Camerún ,30,Defensa central 
 771,2022,Liverpool,Nat Phillips,Inglaterra,25,Defensa central 
-772,2022,Liverpool,Sepp van den Berg,Holanda,20,Defensa central 
+772,2022,Liverpool,Sepp van den Berg,Paises Bajos,20,Defensa central 
 773,2022,Liverpool,Rhys Williams,Inglaterra,21,Defensa central 
 774,2022,Liverpool,Ben Davies,Inglaterra,26,Defensa central 
 775,2022,Liverpool,Billy Koumetio,Francia,19,Defensa central 
@@ -849,7 +849,7 @@
 847,2023,Manchester City,Zack Steffen,Estados unidos,28,Portero
 848,2023,Manchester City,Scott Carson,Inglaterra,37,Portero
 849,2023,Manchester City,Rúben Dias,Portugal,26,Defensa central 
-850,2023,Manchester City,Nathan Aké,Holanda,28,Defensa central 
+850,2023,Manchester City,Nathan Aké,Paises Bajos,28,Defensa central 
 851,2023,Manchester City,John Stones,Inglaterra,29,Defensa central 
 852,2023,Manchester City,Manuel Akanji,Suiza,27,Defensa central 
 853,2023,Manchester City,Aymeric Laporte,España,29,Defensa central 
@@ -885,13 +885,13 @@
 883,2023,Inter Milan,Nikolaos Botis,Grecia,19,Portero
 884,2023,Inter Milan,Alessandro Bastoni,Italia,24,Defensa central 
 885,2023,Inter Milan,Milan Skriniar,Eslovaquia,28,Defensa central 
-886,2023,Inter Milan,Stefan de Vrij,Holanda,31,Defensa central 
+886,2023,Inter Milan,Stefan de Vrij,Paises Bajos,31,Defensa central 
 887,2023,Inter Milan,Francesco Acerbi,Italia,35,Defensa central 
 888,2023,Inter Milan,Danilo D'Ambrosio,Italia,34,Defensa central 
 889,2023,Inter Milan,Alessandro Fontanarosa,Italia,20,Defensa central 
 890,2023,Inter Milan,Federico Dimarco,Italia,25,Lateral izquierdo
 891,2023,Inter Milan,Dalbert,Brasil,29,Lateral izquierdo
-892,2023,Inter Milan,Denzel Dumfries,Holanda,27,Lateral derecho
+892,2023,Inter Milan,Denzel Dumfries,Paises Bajos,27,Lateral derecho
 893,2023,Inter Milan,Raoul Bellanova,Inglaterra,23,Lateral derecho
 894,2023,Inter Milan,Matteo Darmian,Inglaterra,33,Lateral derecho
 895,2023,Inter Milan,Mattia Zanotti,Inglaterra,20,Lateral derecho
@@ -921,7 +921,7 @@
 919,2024,Borussia Dortmund,Niklas Süle,Alemania,27,Defensa central 
 920,2024,Borussia Dortmund,Mats Hummels,Alemania,34,Defensa central 
 921,2024,Borussia Dortmund,Antonios Papadopoulos,Alemania,23,Defensa central 
-922,2024,Borussia Dortmund,Ian Maatsen,Holanda,22,Lateral izquierdo
+922,2024,Borussia Dortmund,Ian Maatsen,Paises Bajos,22,Lateral izquierdo
 923,2024,Borussia Dortmund,Ramy Bensabaini,Argelia,29,Lateral izquierdo
 924,2024,Borussia Dortmund,Guille Bueno,España,21,Lateral izquierdo
 925,2024,Borussia Dortmund,Julian Ryerson,Noruega,26,Lateral derecho
@@ -942,7 +942,7 @@
 940,2024,Borussia Dortmund,Karim Adeyemi,Alemania,22,Extremo izquierdo
 941,2024,Borussia Dortmund,Jamie Gittens,Inglaterra,19,Extremo izquierdo
 942,2024,Borussia Dortmund,Thorgan Hazard,Belgica,31,Extremo izquierdo
-943,2024,Borussia Dortmund,Donyell Malen,Holanda,25,Extremo derecho
+943,2024,Borussia Dortmund,Donyell Malen,Paises Bajos,25,Extremo derecho
 944,2024,Borussia Dortmund,Julien Duranville,Belgica,18,Extremo derecho
 945,2024,Borussia Dortmund,Samuel Bamba,Alemania,20,Extremo derecho
 946,2024,Borussia Dortmund,Youssoufa Moukoko,Alemania,19,Delantero centro
