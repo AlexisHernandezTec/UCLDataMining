@@ -5,14 +5,15 @@ from mlxtend.frequent_patterns import apriori, association_rules
 
 df = pd.read_csv("../datasets/ucl-finals-juntado.csv")  # Cambia el nombre a tu archivo real
 
-print("Nombres originales de columnas:", df.columns)
 
-df.columns = ['','Unnamed: 0_x', 'Año', 'Equipo', 'Nombre', 'Nacionalidad', 'Edad', 'Posicion', 
-              'Unnamed: 0_y', 'season', 'winner-country', 'winner', 'score', 'runner-up', 
+
+df.columns = ['', 'Año', 'Equipo', 'Nombre', 'Nacionalidad', 'Edad', 'Posicion', 
+               'season', 'winner-country', 'winner', 'score', 'runner-up', 
               'runner-up-country', 'stadium', 'final-city', 'final-country', 'attendance', 
               'winning-way', 'year', 'winner_score', 'runner_up_score']
 
-df.drop(columns=['Unnamed: 0_x', 'Unnamed: 0_y'], inplace=True)
+print("Nombres ya procesados de columnas:", df.columns)
+#df.drop(columns=['Unnamed: 0_x', 'Unnamed: 0_y'], inplace=True)
 
 if 'Equipo' in df.columns and 'Posicion' in df.columns:
     print("Columnas 'Equipo' y 'Posicion' encontradas en el DataFrame.")
