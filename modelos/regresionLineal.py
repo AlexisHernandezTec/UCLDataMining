@@ -1,4 +1,5 @@
 import pandas as pd
+import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
@@ -17,11 +18,17 @@ for columna in columnas:
     df[columna] = le.fit_transform(df[columna])
 #fin for
 df["winner"] = le.fit_transform(df["winner"])
-       
+
+
+plt.figure(figsize=(12, 10))
+correlation_matrix = df.corr()
+sns.heatmap(correlation_matrix, annot=True, fmt=".2f", cmap="coolwarm")
+plt.title("Heatmap de Correlaciones")
+plt.show()
+
 y = df['winner']
 x = df[columnas]
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.3, random_state=0)
-
 
 regressor = LinearRegression()
 regressor.fit(x_train, y_train)

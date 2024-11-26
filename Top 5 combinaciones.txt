@@ -1,0 +1,13 @@
+Top 5 combinaciones:
+Combinación: ('Equipo', 'season', 'winner-country', 'score', 'runner-up', 'runner-up-country', 'stadium', 'final-city', 'final-country', 'attendance', 'winning-way', 'year', 'winner_score', 'runner_up_score'), Score: 0.8180475819513261
+Combinación: ('Año', 'Equipo', 'season', 'winner-country', 'score', 'runner-up', 'runner-up-country', 'stadium', 'final-city', 'final-country', 'attendance', 'winning-way', 'winner_score', 'runner_up_score'), Score: 0.8169714365603514
+Combinación: ('Año', 'Equipo', 'winner-country', 'score', 'runner-up', 'runner-up-country', 'stadium', 'final-city', 'final-country', 'attendance', 'winning-way', 'year', 'winner_score', 'runner_up_score'), Score: 0.8169714365603514
+Combinación: ('Año', 'Equipo', 'winner-country', 'score', 'runner-up', 'runner-up-country', 'stadium', 'final-city', 'final-country', 'attendance', 'winning-way', 'winner_score', 'runner_up_score'), Score: 0.8169714365603513
+Combinación: ('Equipo', 'winner-country', 'score', 'runner-up', 'runner-up-country', 'stadium', 'final-city', 'final-country', 'attendance', 'winning-way', 'year', 'winner_score', 'runner_up_score'), Score: 0.8169714365603511
+
+Bottom 5 combinaciones:
+Combinación: ('Nombre', 'Edad', 'stadium', 'attendance', 'runner_up_score'), Score: -0.09951826190984625
+Combinación: ('Nombre', 'Posicion', 'stadium', 'attendance', 'runner_up_score'), Score: -0.09984684761114271
+Combinación: ('Nombre', 'stadium', 'attendance', 'runner_up_score'), Score: -0.09991516060204608
+Combinación: ('Equipo', 'season', 'final-city', 'year'), Score: -0.42993839662608635
+Combinación: ('Equipo', 'season', 'attendance', 'year'), Score: -0.4872241286214076
