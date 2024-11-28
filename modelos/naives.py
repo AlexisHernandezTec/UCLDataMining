@@ -21,6 +21,9 @@ for columna in columnas:
     df[columna] = le.fit_transform(df[columna])
 #fin for
 df_2 = df.drop(columns=['Equipo'])
+df_2 = df.drop(columns=['winner_score'])
+df_2 = df.drop(columns=['score'])
+df_2 = df.drop(columns=['winner'])
 x = df_2.iloc[:,1:].values
 y = df['Equipo']
 X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.25, random_state=True)
