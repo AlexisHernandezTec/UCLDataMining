@@ -5,6 +5,7 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 from sklearn import metrics
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import matplotlib.pyplot as plt
+import modelos.model_visuals as mv  
 
 # Cargar el archivo CSV
 df = pd.read_csv("../datasets/ucl-finals-juntado.csv")
