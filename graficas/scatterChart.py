@@ -1,13 +1,6 @@
-import plotly.graph_objects as go
+import plotly.express as px
 
-def plot_real_vs_predicted(y_test, y_pred):
-    """Genera un gráfico de dispersión de valores reales vs predichos."""
-    fig = go.Figure()
-    fig.add_trace(go.Scatter(x=y_test, y=y_pred, mode='markers', name='Datos'))
-    fig.update_layout(
-        title="Real vs Predicted",
-        xaxis_title="Valores Reales",
-        yaxis_title="Valores Predichos"
-    )
+def plot_scatter_chart(data, x="X", y="Y", title="Gráfico de Dispersión"):
+    fig = px.scatter(data, x=x, y=y, title=title)
     return fig
 #end def
