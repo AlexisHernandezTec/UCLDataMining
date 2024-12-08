@@ -55,6 +55,7 @@ app.layout = html.Div(
                 'color': '#2D3748',
                 'textAlign': 'center',
                 'width': '100%',
+                'fontFamily': 'Arial, sans-serif',  # Usando Arial como fuente
                 'marginBottom': '10px'  # Reducir el espacio debajo del H1
             }
         ),
@@ -64,7 +65,8 @@ app.layout = html.Div(
                 'color': '#2D3748',
                 'textAlign': 'center',
                 'width': '100%',
-                'marginBottom': '40px'  # Reducir el espacio debajo del H2
+                'marginBottom': '40px',  # Reducir el espacio debajo del H2
+                'fontFamily': 'Arial, sans-serif'  # Usando Arial como fuente
             }
         ),
         
