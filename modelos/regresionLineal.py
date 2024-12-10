@@ -9,7 +9,7 @@ from sklearn import metrics
 from sklearn.metrics import confusion_matrix
 
 #Libreria para visualizar gráficos
-import graficas.model_visuals as mv
+# import graficas.model_visuals as mv
 
 df = pd.read_csv("../datasets/ucl-finals-juntado.csv", index_col=0)
 
@@ -50,7 +50,7 @@ y_pred = regressor.predict(x_test)
 # # Obtener los coeficientes del modelo y asociarlos a las columnas
 
 #Llamada dse los metodos de la libreria
-mv.plot_heatmap(df.corr())
+# mv.plot_heatmap(df.corr())
 # mv.plot_real_vs_predicted(y_test, y_pred)
 # mv.plot_pie_chart(regressor.score(x_test, y_test))
 # mv.plot_feature_importance(regressor, columnas)
